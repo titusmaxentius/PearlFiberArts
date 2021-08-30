@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema
+	targetNamespace="http://www.dalkewarnerdesigns.com/Kniterate/PFA"
+	xmlns="http://www.w3.org/2001/XMLSchema"
+	xmlns:pfa="http://www.dalkewarnerdesigns.com/Kniterate/PFA">
+	<complexType name="KniterateDesign">
+		<sequence>
+			<element name="KCODEVERSION" type="string"></element>
+			<element name="Authors" type="pfa:AuthorCollType"
+				maxOccurs="1" minOccurs="1">
+			</element>
+			<element name="Section" type="pfa:SectionType"
+				maxOccurs="unbounded" minOccurs="0">
+			</element>
+		</sequence>
+	</complexType>
+
+	<complexType name="SectionType">
+		<sequence>
+			<element name="Name" type="string" maxOccurs="1"
+				minOccurs="1">
+			</element>
+			<element name="Description" type="string" maxOccurs="1"
+				minOccurs="0">
+			</element>
+			<element name="Yarns" type="pfa:YarnColType"
+				maxOccurs="unbounded" minOccurs="1">
+			</element>
+		</sequence>
+	</complexType>
+
+	<complexType name="YarnType">
+		<sequence>
+			<element name="FeederPosition" type="string"></element>
+			<element name="Manufacturer" type="string"></element>
+			<element name="YarnName" type="string"></element>
+			<element name="YarnWeight">
+				<simpleType>
+					<restriction base="string">
+						<pattern value="\d\d/\d\d"></pattern>
+					</restriction>
+				</simpleType>
+			</element>
+			<element name="DyeLot" type="string"></element>
+			<element name="Colorway" type="string"></element>
+		</sequence>
+	</complexType>
+
+	<complexType name="YarnColType">
+		<sequence>
+			<element name="Yarn" type="pfa:YarnType"></element>
+		</sequence>
+	</complexType>
+
+	<element name="Design" type="pfa:KniterateDesign"></element>
+
+	<complexType name="PersonType">
+		<sequence>
+			<element name="FirstName" type="string"></element>
+			<element name="LastName" type="string"></element>
+			<element name="Role" type="string"></element>
+		</sequence>
+	</complexType>
+
+	<complexType name="AuthorCollType">
+		<sequence>
+			<element name="Person" type="pfa:PersonType"
+				maxOccurs="unbounded" minOccurs="1">
+			</element>
+		</sequence>
+	</complexType>
+
+	<attribute name="Finalized" type="boolean"></attribute>
+
+	<attribute name="DateCreated" type="dateTime"></attribute>
+
+	<attribute name="Compiled" type="boolean"></attribute>
+</schema>
