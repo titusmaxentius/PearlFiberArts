@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF8"?>
+
+<pfa:Design xmlns:pfa="http://www.dalkewarnerdesigns.com/Kniterate/PFA" xmlns:xsi="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.dalkewarnerdesigns.com/Kniterate/PFA ../../Assets/XML/DesignSpec.xsd ">
+	<KCODEVERSION>1.0</KCODEVERSION>
+	<Authors>
+		<Person>
+			<FirstName>Robert</FirstName>
+			<LastName>Warner</LastName>
+			<Role>Designer</Role>
+		</Person>
+	</Authors>
+	<Section>
+		<Name>Cast On</Name>
+		<Yarns>
+			<Yarn>
+				<FeederPosition>1</FeederPosition>
+				<Manufacturer>UNKNOWN</Manufacturer>
+				<YarnName>NYLON Draw Thread</YarnName>
+				<YarnWeight>01/14</YarnWeight>
+				<DyeLot>Orange</DyeLot>
+				<Colorway>Orange</Colorway>
+			</Yarn>
+			<Yarn>
+				<FeederPosition>2</FeederPosition>
+				<Manufacturer>Jaggerspun Yarns</Manufacturer>
+				<YarnName>SuperLamb 2/18</YarnName>
+				<YarnWeight>02/18</YarnWeight>
+				<Colorway>Grey/Slate</Colorway>
+			</Yarn>
+		</Yarns>
+	</Section>
+
+
+</pfa:Design>
