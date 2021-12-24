@@ -4,7 +4,12 @@
 ;;Gauge: 7
 x-xfer-style four-pass
 x-stitch-number 5
+x-speed-number 400
+x-stitch-number 5
+x-roller-advance 400
 in 2
+in 1
+in 3
 knit + f1 2
 knit + b2 2
 knit + f3 2
@@ -20796,7 +20801,8 @@ drop b181
 drop b182
 drop b183
 drop b184
-in 1
+x-carrier-spacing 4
+x-carrier-stopping-distance 8.5
 x-stitch-number 5
 knit + f1 1
 knit + f2 1
@@ -20982,378 +20988,561 @@ knit + f181 1
 knit + f182 1
 knit + f183 1
 knit + f184 1
-in 3
 rack 0.25
-x-speed-number 300
+x-speed-number 100
 x-stitch-number A
 x-roller-advance 500
-knit - b184 3
 knit - f184 3
-knit - b183 3
 knit - f183 3
-knit - b182 3
 knit - f182 3
-knit - b181 3
 knit - f181 3
-knit - b180 3
 knit - f180 3
-knit - b179 3
 knit - f179 3
-knit - b178 3
 knit - f178 3
-knit - b177 3
 knit - f177 3
-knit - b176 3
 knit - f176 3
-knit - b175 3
 knit - f175 3
-knit - b174 3
 knit - f174 3
-knit - b173 3
 knit - f173 3
-knit - b172 3
 knit - f172 3
-knit - b171 3
 knit - f171 3
-knit - b170 3
 knit - f170 3
-knit - b169 3
 knit - f169 3
-knit - b168 3
 knit - f168 3
-knit - b167 3
 knit - f167 3
-knit - b166 3
 knit - f166 3
-knit - b165 3
 knit - f165 3
-knit - b164 3
 knit - f164 3
-knit - b163 3
 knit - f163 3
-knit - b162 3
 knit - f162 3
-knit - b161 3
 knit - f161 3
-knit - b160 3
 knit - f160 3
-knit - b159 3
 knit - f159 3
-knit - b158 3
 knit - f158 3
-knit - b157 3
 knit - f157 3
-knit - b156 3
 knit - f156 3
-knit - b155 3
 knit - f155 3
-knit - b154 3
 knit - f154 3
-knit - b153 3
 knit - f153 3
-knit - b152 3
 knit - f152 3
-knit - b151 3
 knit - f151 3
-knit - b150 3
 knit - f150 3
-knit - b149 3
 knit - f149 3
-knit - b148 3
 knit - f148 3
-knit - b147 3
 knit - f147 3
-knit - b146 3
 knit - f146 3
-knit - b145 3
 knit - f145 3
-knit - b144 3
 knit - f144 3
-knit - b143 3
 knit - f143 3
-knit - b142 3
 knit - f142 3
-knit - b141 3
 knit - f141 3
-knit - b140 3
 knit - f140 3
-knit - b139 3
 knit - f139 3
-knit - b138 3
 knit - f138 3
-knit - b137 3
 knit - f137 3
-knit - b136 3
 knit - f136 3
-knit - b135 3
 knit - f135 3
-knit - b134 3
 knit - f134 3
-knit - b133 3
 knit - f133 3
-knit - b132 3
 knit - f132 3
-knit - b131 3
 knit - f131 3
-knit - b130 3
 knit - f130 3
-knit - b129 3
 knit - f129 3
-knit - b128 3
 knit - f128 3
-knit - b127 3
 knit - f127 3
-knit - b126 3
 knit - f126 3
-knit - b125 3
 knit - f125 3
-knit - b124 3
 knit - f124 3
-knit - b123 3
 knit - f123 3
-knit - b122 3
 knit - f122 3
-knit - b121 3
 knit - f121 3
-knit - b120 3
 knit - f120 3
-knit - b119 3
 knit - f119 3
-knit - b118 3
 knit - f118 3
-knit - b117 3
 knit - f117 3
-knit - b116 3
 knit - f116 3
-knit - b115 3
 knit - f115 3
-knit - b114 3
 knit - f114 3
-knit - b113 3
 knit - f113 3
-knit - b112 3
 knit - f112 3
-knit - b111 3
 knit - f111 3
-knit - b110 3
 knit - f110 3
-knit - b109 3
 knit - f109 3
-knit - b108 3
 knit - f108 3
-knit - b107 3
 knit - f107 3
-knit - b106 3
 knit - f106 3
-knit - b105 3
 knit - f105 3
-knit - b104 3
 knit - f104 3
-knit - b103 3
 knit - f103 3
-knit - b102 3
 knit - f102 3
-knit - b101 3
 knit - f101 3
-knit - b100 3
 knit - f100 3
-knit - b99 3
 knit - f99 3
-knit - b98 3
 knit - f98 3
-knit - b97 3
 knit - f97 3
-knit - b96 3
 knit - f96 3
-knit - b95 3
 knit - f95 3
-knit - b94 3
 knit - f94 3
-knit - b93 3
 knit - f93 3
-knit - b92 3
 knit - f92 3
-knit - b91 3
 knit - f91 3
-knit - b90 3
 knit - f90 3
-knit - b89 3
 knit - f89 3
-knit - b88 3
 knit - f88 3
-knit - b87 3
 knit - f87 3
-knit - b86 3
 knit - f86 3
-knit - b85 3
 knit - f85 3
-knit - b84 3
 knit - f84 3
-knit - b83 3
 knit - f83 3
-knit - b82 3
 knit - f82 3
-knit - b81 3
 knit - f81 3
-knit - b80 3
 knit - f80 3
-knit - b79 3
 knit - f79 3
-knit - b78 3
 knit - f78 3
-knit - b77 3
 knit - f77 3
-knit - b76 3
 knit - f76 3
-knit - b75 3
 knit - f75 3
-knit - b74 3
 knit - f74 3
-knit - b73 3
 knit - f73 3
-knit - b72 3
 knit - f72 3
-knit - b71 3
 knit - f71 3
-knit - b70 3
 knit - f70 3
-knit - b69 3
 knit - f69 3
-knit - b68 3
 knit - f68 3
-knit - b67 3
 knit - f67 3
-knit - b66 3
 knit - f66 3
-knit - b65 3
 knit - f65 3
-knit - b64 3
 knit - f64 3
-knit - b63 3
 knit - f63 3
-knit - b62 3
 knit - f62 3
-knit - b61 3
 knit - f61 3
-knit - b60 3
 knit - f60 3
-knit - b59 3
 knit - f59 3
-knit - b58 3
 knit - f58 3
-knit - b57 3
 knit - f57 3
-knit - b56 3
 knit - f56 3
-knit - b55 3
 knit - f55 3
-knit - b54 3
 knit - f54 3
-knit - b53 3
 knit - f53 3
-knit - b52 3
 knit - f52 3
-knit - b51 3
 knit - f51 3
-knit - b50 3
 knit - f50 3
-knit - b49 3
 knit - f49 3
-knit - b48 3
 knit - f48 3
-knit - b47 3
 knit - f47 3
-knit - b46 3
 knit - f46 3
-knit - b45 3
 knit - f45 3
-knit - b44 3
 knit - f44 3
-knit - b43 3
 knit - f43 3
-knit - b42 3
 knit - f42 3
-knit - b41 3
 knit - f41 3
-knit - b40 3
 knit - f40 3
-knit - b39 3
 knit - f39 3
-knit - b38 3
 knit - f38 3
-knit - b37 3
 knit - f37 3
-knit - b36 3
 knit - f36 3
-knit - b35 3
 knit - f35 3
-knit - b34 3
 knit - f34 3
-knit - b33 3
 knit - f33 3
-knit - b32 3
 knit - f32 3
-knit - b31 3
 knit - f31 3
-knit - b30 3
 knit - f30 3
-knit - b29 3
 knit - f29 3
-knit - b28 3
 knit - f28 3
-knit - b27 3
 knit - f27 3
-knit - b26 3
 knit - f26 3
-knit - b25 3
 knit - f25 3
-knit - b24 3
 knit - f24 3
-knit - b23 3
 knit - f23 3
-knit - b22 3
 knit - f22 3
-knit - b21 3
 knit - f21 3
-knit - b20 3
 knit - f20 3
-knit - b19 3
 knit - f19 3
-knit - b18 3
 knit - f18 3
-knit - b17 3
 knit - f17 3
-knit - b16 3
 knit - f16 3
-knit - b15 3
 knit - f15 3
-knit - b14 3
 knit - f14 3
-knit - b13 3
 knit - f13 3
-knit - b12 3
 knit - f12 3
-knit - b11 3
 knit - f11 3
-knit - b10 3
 knit - f10 3
-knit - b9 3
 knit - f9 3
-knit - b8 3
 knit - f8 3
-knit - b7 3
 knit - f7 3
-knit - b6 3
 knit - f6 3
-knit - b5 3
 knit - f5 3
-knit - b4 3
 knit - f4 3
-knit - b3 3
 knit - f3 3
-knit - b2 3
 knit - f2 3
-knit - b1 3
+knit - f1 3
+knit + f1 3
+knit + f2 3
+knit + f3 3
+knit + f4 3
+knit + f5 3
+knit + f6 3
+knit + f7 3
+knit + f8 3
+knit + f9 3
+knit + f10 3
+knit + f11 3
+knit + f12 3
+knit + f13 3
+knit + f14 3
+knit + f15 3
+knit + f16 3
+knit + f17 3
+knit + f18 3
+knit + f19 3
+knit + f20 3
+knit + f21 3
+knit + f22 3
+knit + f23 3
+knit + f24 3
+knit + f25 3
+knit + f26 3
+knit + f27 3
+knit + f28 3
+knit + f29 3
+knit + f30 3
+knit + f31 3
+knit + f32 3
+knit + f33 3
+knit + f34 3
+knit + f35 3
+knit + f36 3
+knit + f37 3
+knit + f38 3
+knit + f39 3
+knit + f40 3
+knit + f41 3
+knit + f42 3
+knit + f43 3
+knit + f44 3
+knit + f45 3
+knit + f46 3
+knit + f47 3
+knit + f48 3
+knit + f49 3
+knit + f50 3
+knit + f51 3
+knit + f52 3
+knit + f53 3
+knit + f54 3
+knit + f55 3
+knit + f56 3
+knit + f57 3
+knit + f58 3
+knit + f59 3
+knit + f60 3
+knit + f61 3
+knit + f62 3
+knit + f63 3
+knit + f64 3
+knit + f65 3
+knit + f66 3
+knit + f67 3
+knit + f68 3
+knit + f69 3
+knit + f70 3
+knit + f71 3
+knit + f72 3
+knit + f73 3
+knit + f74 3
+knit + f75 3
+knit + f76 3
+knit + f77 3
+knit + f78 3
+knit + f79 3
+knit + f80 3
+knit + f81 3
+knit + f82 3
+knit + f83 3
+knit + f84 3
+knit + f85 3
+knit + f86 3
+knit + f87 3
+knit + f88 3
+knit + f89 3
+knit + f90 3
+knit + f91 3
+knit + f92 3
+knit + f93 3
+knit + f94 3
+knit + f95 3
+knit + f96 3
+knit + f97 3
+knit + f98 3
+knit + f99 3
+knit + f100 3
+knit + f101 3
+knit + f102 3
+knit + f103 3
+knit + f104 3
+knit + f105 3
+knit + f106 3
+knit + f107 3
+knit + f108 3
+knit + f109 3
+knit + f110 3
+knit + f111 3
+knit + f112 3
+knit + f113 3
+knit + f114 3
+knit + f115 3
+knit + f116 3
+knit + f117 3
+knit + f118 3
+knit + f119 3
+knit + f120 3
+knit + f121 3
+knit + f122 3
+knit + f123 3
+knit + f124 3
+knit + f125 3
+knit + f126 3
+knit + f127 3
+knit + f128 3
+knit + f129 3
+knit + f130 3
+knit + f131 3
+knit + f132 3
+knit + f133 3
+knit + f134 3
+knit + f135 3
+knit + f136 3
+knit + f137 3
+knit + f138 3
+knit + f139 3
+knit + f140 3
+knit + f141 3
+knit + f142 3
+knit + f143 3
+knit + f144 3
+knit + f145 3
+knit + f146 3
+knit + f147 3
+knit + f148 3
+knit + f149 3
+knit + f150 3
+knit + f151 3
+knit + f152 3
+knit + f153 3
+knit + f154 3
+knit + f155 3
+knit + f156 3
+knit + f157 3
+knit + f158 3
+knit + f159 3
+knit + f160 3
+knit + f161 3
+knit + f162 3
+knit + f163 3
+knit + f164 3
+knit + f165 3
+knit + f166 3
+knit + f167 3
+knit + f168 3
+knit + f169 3
+knit + f170 3
+knit + f171 3
+knit + f172 3
+knit + f173 3
+knit + f174 3
+knit + f175 3
+knit + f176 3
+knit + f177 3
+knit + f178 3
+knit + f179 3
+knit + f180 3
+knit + f181 3
+knit + f182 3
+knit + f183 3
+knit + f184 3
+knit - f184 3
+knit - f183 3
+knit - f182 3
+knit - f181 3
+knit - f180 3
+knit - f179 3
+knit - f178 3
+knit - f177 3
+knit - f176 3
+knit - f175 3
+knit - f174 3
+knit - f173 3
+knit - f172 3
+knit - f171 3
+knit - f170 3
+knit - f169 3
+knit - f168 3
+knit - f167 3
+knit - f166 3
+knit - f165 3
+knit - f164 3
+knit - f163 3
+knit - f162 3
+knit - f161 3
+knit - f160 3
+knit - f159 3
+knit - f158 3
+knit - f157 3
+knit - f156 3
+knit - f155 3
+knit - f154 3
+knit - f153 3
+knit - f152 3
+knit - f151 3
+knit - f150 3
+knit - f149 3
+knit - f148 3
+knit - f147 3
+knit - f146 3
+knit - f145 3
+knit - f144 3
+knit - f143 3
+knit - f142 3
+knit - f141 3
+knit - f140 3
+knit - f139 3
+knit - f138 3
+knit - f137 3
+knit - f136 3
+knit - f135 3
+knit - f134 3
+knit - f133 3
+knit - f132 3
+knit - f131 3
+knit - f130 3
+knit - f129 3
+knit - f128 3
+knit - f127 3
+knit - f126 3
+knit - f125 3
+knit - f124 3
+knit - f123 3
+knit - f122 3
+knit - f121 3
+knit - f120 3
+knit - f119 3
+knit - f118 3
+knit - f117 3
+knit - f116 3
+knit - f115 3
+knit - f114 3
+knit - f113 3
+knit - f112 3
+knit - f111 3
+knit - f110 3
+knit - f109 3
+knit - f108 3
+knit - f107 3
+knit - f106 3
+knit - f105 3
+knit - f104 3
+knit - f103 3
+knit - f102 3
+knit - f101 3
+knit - f100 3
+knit - f99 3
+knit - f98 3
+knit - f97 3
+knit - f96 3
+knit - f95 3
+knit - f94 3
+knit - f93 3
+knit - f92 3
+knit - f91 3
+knit - f90 3
+knit - f89 3
+knit - f88 3
+knit - f87 3
+knit - f86 3
+knit - f85 3
+knit - f84 3
+knit - f83 3
+knit - f82 3
+knit - f81 3
+knit - f80 3
+knit - f79 3
+knit - f78 3
+knit - f77 3
+knit - f76 3
+knit - f75 3
+knit - f74 3
+knit - f73 3
+knit - f72 3
+knit - f71 3
+knit - f70 3
+knit - f69 3
+knit - f68 3
+knit - f67 3
+knit - f66 3
+knit - f65 3
+knit - f64 3
+knit - f63 3
+knit - f62 3
+knit - f61 3
+knit - f60 3
+knit - f59 3
+knit - f58 3
+knit - f57 3
+knit - f56 3
+knit - f55 3
+knit - f54 3
+knit - f53 3
+knit - f52 3
+knit - f51 3
+knit - f50 3
+knit - f49 3
+knit - f48 3
+knit - f47 3
+knit - f46 3
+knit - f45 3
+knit - f44 3
+knit - f43 3
+knit - f42 3
+knit - f41 3
+knit - f40 3
+knit - f39 3
+knit - f38 3
+knit - f37 3
+knit - f36 3
+knit - f35 3
+knit - f34 3
+knit - f33 3
+knit - f32 3
+knit - f31 3
+knit - f30 3
+knit - f29 3
+knit - f28 3
+knit - f27 3
+knit - f26 3
+knit - f25 3
+knit - f24 3
+knit - f23 3
+knit - f22 3
+knit - f21 3
+knit - f20 3
+knit - f19 3
+knit - f18 3
+knit - f17 3
+knit - f16 3
+knit - f15 3
+knit - f14 3
+knit - f13 3
+knit - f12 3
+knit - f11 3
+knit - f10 3
+knit - f9 3
+knit - f8 3
+knit - f7 3
+knit - f6 3
+knit - f5 3
+knit - f4 3
+knit - f3 3
+knit - f2 3
 knit - f1 3
 rack 0
 ;Cast on complete
@@ -21729,6 +21918,190 @@ knit + f183 3
 knit + f184 3
 x-speed-number 400
 x-roller-advance 500
+knit - f184 3
+knit - f183 3
+knit - b182 3
+knit - b181 3
+knit - f180 3
+knit - f179 3
+knit - b178 3
+knit - b177 3
+knit - f176 3
+knit - f175 3
+knit - b174 3
+knit - b173 3
+knit - f172 3
+knit - f171 3
+knit - b170 3
+knit - b169 3
+knit - f168 3
+knit - f167 3
+knit - b166 3
+knit - b165 3
+knit - f164 3
+knit - f163 3
+knit - b162 3
+knit - b161 3
+knit - f160 3
+knit - f159 3
+knit - b158 3
+knit - b157 3
+knit - f156 3
+knit - f155 3
+knit - b154 3
+knit - b153 3
+knit - f152 3
+knit - f151 3
+knit - b150 3
+knit - b149 3
+knit - f148 3
+knit - f147 3
+knit - b146 3
+knit - b145 3
+knit - f144 3
+knit - f143 3
+knit - b142 3
+knit - b141 3
+knit - f140 3
+knit - f139 3
+knit - b138 3
+knit - b137 3
+knit - f136 3
+knit - f135 3
+knit - b134 3
+knit - b133 3
+knit - f132 3
+knit - f131 3
+knit - b130 3
+knit - b129 3
+knit - f128 3
+knit - f127 3
+knit - b126 3
+knit - b125 3
+knit - f124 3
+knit - f123 3
+knit - b122 3
+knit - b121 3
+knit - f120 3
+knit - f119 3
+knit - b118 3
+knit - b117 3
+knit - f116 3
+knit - f115 3
+knit - b114 3
+knit - b113 3
+knit - f112 3
+knit - f111 3
+knit - b110 3
+knit - b109 3
+knit - f108 3
+knit - f107 3
+knit - b106 3
+knit - b105 3
+knit - f104 3
+knit - f103 3
+knit - b102 3
+knit - b101 3
+knit - f100 3
+knit - f99 3
+knit - b98 3
+knit - b97 3
+knit - f96 3
+knit - f95 3
+knit - b94 3
+knit - b93 3
+knit - f92 3
+knit - f91 3
+knit - b90 3
+knit - b89 3
+knit - f88 3
+knit - f87 3
+knit - b86 3
+knit - b85 3
+knit - f84 3
+knit - f83 3
+knit - b82 3
+knit - b81 3
+knit - f80 3
+knit - f79 3
+knit - b78 3
+knit - b77 3
+knit - f76 3
+knit - f75 3
+knit - b74 3
+knit - b73 3
+knit - f72 3
+knit - f71 3
+knit - b70 3
+knit - b69 3
+knit - f68 3
+knit - f67 3
+knit - b66 3
+knit - b65 3
+knit - f64 3
+knit - f63 3
+knit - b62 3
+knit - b61 3
+knit - f60 3
+knit - f59 3
+knit - b58 3
+knit - b57 3
+knit - f56 3
+knit - f55 3
+knit - b54 3
+knit - b53 3
+knit - f52 3
+knit - f51 3
+knit - b50 3
+knit - b49 3
+knit - f48 3
+knit - f47 3
+knit - b46 3
+knit - b45 3
+knit - f44 3
+knit - f43 3
+knit - b42 3
+knit - b41 3
+knit - f40 3
+knit - f39 3
+knit - b38 3
+knit - b37 3
+knit - f36 3
+knit - f35 3
+knit - b34 3
+knit - b33 3
+knit - f32 3
+knit - f31 3
+knit - b30 3
+knit - b29 3
+knit - f28 3
+knit - f27 3
+knit - b26 3
+knit - b25 3
+knit - f24 3
+knit - f23 3
+knit - b22 3
+knit - b21 3
+knit - f20 3
+knit - f19 3
+knit - b18 3
+knit - b17 3
+knit - f16 3
+knit - f15 3
+knit - b14 3
+knit - b13 3
+knit - f12 3
+knit - f11 3
+knit - b10 3
+knit - b9 3
+knit - f8 3
+knit - f7 3
+knit - b6 3
+knit - b5 3
+knit - f4 3
+knit - f3 3
+knit - b2 3
+knit - b1 3
 knit + b1 3
 knit + b2 3
 knit + f3 3
@@ -40407,7 +40780,7 @@ knit + f181 3
 knit + f182 3
 knit + f183 3
 knit + f184 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f35 b35
@@ -40560,6 +40933,7 @@ xfer f181 b181
 xfer f182 b182
 xfer f183 b183
 xfer f184 b184
+xfer f185 b185
 rack -1
 xfer b35 f34
 xfer b36 f35
@@ -40711,6 +41085,7 @@ xfer b181 f180
 xfer b182 f181
 xfer b183 f182
 xfer b184 f183
+xfer b185 f184
 rack 0
 rack 0
 xfer f64 b64
@@ -40834,6 +41209,7 @@ xfer f181 b181
 xfer f182 b182
 xfer f183 b183
 xfer f184 b184
+xfer f185 b185
 rack -1
 xfer b64 f63
 xfer b65 f64
@@ -40956,6 +41332,7 @@ xfer b181 f180
 xfer b182 f181
 xfer b183 f182
 xfer b184 f183
+xfer b185 f184
 rack 0
 rack 0
 xfer f93 b93
@@ -41050,6 +41427,7 @@ xfer f181 b181
 xfer f182 b182
 xfer f183 b183
 xfer f184 b184
+xfer f185 b185
 rack -1
 xfer b93 f92
 xfer b94 f93
@@ -41143,6 +41521,7 @@ xfer b181 f180
 xfer b182 f181
 xfer b183 f182
 xfer b184 f183
+xfer b185 f184
 rack 0
 rack 0
 xfer f122 b122
@@ -41208,6 +41587,7 @@ xfer f181 b181
 xfer f182 b182
 xfer f183 b183
 xfer f184 b184
+xfer f185 b185
 rack -1
 xfer b122 f121
 xfer b123 f122
@@ -41272,6 +41652,7 @@ xfer b181 f180
 xfer b182 f181
 xfer b183 f182
 xfer b184 f183
+xfer b185 f184
 rack 0
 rack 0
 xfer f151 b151
@@ -41308,6 +41689,7 @@ xfer f181 b181
 xfer f182 b182
 xfer f183 b183
 xfer f184 b184
+xfer f185 b185
 rack -1
 xfer b151 f150
 xfer b152 f151
@@ -41343,6 +41725,7 @@ xfer b181 f180
 xfer b182 f181
 xfer b183 f182
 xfer b184 f183
+xfer b185 f184
 rack 0
 rack 0
 xfer f180 b180
@@ -41350,12 +41733,14 @@ xfer f181 b181
 xfer f182 b182
 xfer f183 b183
 xfer f184 b184
+xfer f185 b185
 rack -1
 xfer b180 f179
 xfer b181 f180
 xfer b182 f181
 xfer b183 f182
 xfer b184 f183
+xfer b185 f184
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -42431,7 +42816,7 @@ knit + f178 3
 x-speed-number 400
 x-roller-advance 250
 knit + f179 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f34 b34
@@ -42579,6 +42964,7 @@ xfer f175 b175
 xfer f176 b176
 xfer f177 b177
 xfer f178 b178
+xfer f179 b179
 rack -1
 xfer b34 f33
 xfer b35 f34
@@ -42725,6 +43111,7 @@ xfer b175 f174
 xfer b176 f175
 xfer b177 f176
 xfer b178 f177
+xfer b179 f178
 rack 0
 rack 0
 xfer f62 b62
@@ -42844,6 +43231,7 @@ xfer f175 b175
 xfer f176 b176
 xfer f177 b177
 xfer f178 b178
+xfer f179 b179
 rack -1
 xfer b62 f61
 xfer b63 f62
@@ -42962,6 +43350,7 @@ xfer b175 f174
 xfer b176 f175
 xfer b177 f176
 xfer b178 f177
+xfer b179 f178
 rack 0
 rack 0
 xfer f90 b90
@@ -43053,6 +43442,7 @@ xfer f175 b175
 xfer f176 b176
 xfer f177 b177
 xfer f178 b178
+xfer f179 b179
 rack -1
 xfer b90 f89
 xfer b91 f90
@@ -43143,6 +43533,7 @@ xfer b175 f174
 xfer b176 f175
 xfer b177 f176
 xfer b178 f177
+xfer b179 f178
 rack 0
 rack 0
 xfer f118 b118
@@ -43206,6 +43597,7 @@ xfer f175 b175
 xfer f176 b176
 xfer f177 b177
 xfer f178 b178
+xfer f179 b179
 rack -1
 xfer b118 f117
 xfer b119 f118
@@ -43268,6 +43660,7 @@ xfer b175 f174
 xfer b176 f175
 xfer b177 f176
 xfer b178 f177
+xfer b179 f178
 rack 0
 rack 0
 xfer f146 b146
@@ -43303,6 +43696,7 @@ xfer f175 b175
 xfer f176 b176
 xfer f177 b177
 xfer f178 b178
+xfer f179 b179
 rack -1
 xfer b146 f145
 xfer b147 f146
@@ -43337,6 +43731,7 @@ xfer b175 f174
 xfer b176 f175
 xfer b177 f176
 xfer b178 f177
+xfer b179 f178
 rack 0
 rack 0
 xfer f174 b174
@@ -43344,12 +43739,14 @@ xfer f175 b175
 xfer f176 b176
 xfer f177 b177
 xfer f178 b178
+xfer f179 b179
 rack -1
 xfer b174 f173
 xfer b175 f174
 xfer b176 f175
 xfer b177 f176
 xfer b178 f177
+xfer b179 f178
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -44389,7 +44786,7 @@ knit + f172 3
 x-speed-number 400
 x-roller-advance 250
 knit + f173 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f33 b33
@@ -44532,6 +44929,7 @@ xfer f169 b169
 xfer f170 b170
 xfer f171 b171
 xfer f172 b172
+xfer f173 b173
 rack -1
 xfer b33 f32
 xfer b34 f33
@@ -44673,6 +45071,7 @@ xfer b169 f168
 xfer b170 f169
 xfer b171 f170
 xfer b172 f171
+xfer b173 f172
 rack 0
 rack 0
 xfer f60 b60
@@ -44788,6 +45187,7 @@ xfer f169 b169
 xfer f170 b170
 xfer f171 b171
 xfer f172 b172
+xfer f173 b173
 rack -1
 xfer b60 f59
 xfer b61 f60
@@ -44902,6 +45302,7 @@ xfer b169 f168
 xfer b170 f169
 xfer b171 f170
 xfer b172 f171
+xfer b173 f172
 rack 0
 rack 0
 xfer f87 b87
@@ -44990,6 +45391,7 @@ xfer f169 b169
 xfer f170 b170
 xfer f171 b171
 xfer f172 b172
+xfer f173 b173
 rack -1
 xfer b87 f86
 xfer b88 f87
@@ -45077,6 +45479,7 @@ xfer b169 f168
 xfer b170 f169
 xfer b171 f170
 xfer b172 f171
+xfer b173 f172
 rack 0
 rack 0
 xfer f114 b114
@@ -45138,6 +45541,7 @@ xfer f169 b169
 xfer f170 b170
 xfer f171 b171
 xfer f172 b172
+xfer f173 b173
 rack -1
 xfer b114 f113
 xfer b115 f114
@@ -45198,6 +45602,7 @@ xfer b169 f168
 xfer b170 f169
 xfer b171 f170
 xfer b172 f171
+xfer b173 f172
 rack 0
 rack 0
 xfer f141 b141
@@ -45232,6 +45637,7 @@ xfer f169 b169
 xfer f170 b170
 xfer f171 b171
 xfer f172 b172
+xfer f173 b173
 rack -1
 xfer b141 f140
 xfer b142 f141
@@ -45265,6 +45671,7 @@ xfer b169 f168
 xfer b170 f169
 xfer b171 f170
 xfer b172 f171
+xfer b173 f172
 rack 0
 rack 0
 xfer f168 b168
@@ -45272,12 +45679,14 @@ xfer f169 b169
 xfer f170 b170
 xfer f171 b171
 xfer f172 b172
+xfer f173 b173
 rack -1
 xfer b168 f167
 xfer b169 f168
 xfer b170 f169
 xfer b171 f170
 xfer b172 f171
+xfer b173 f172
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -46281,7 +46690,7 @@ knit + f166 3
 x-speed-number 400
 x-roller-advance 250
 knit + f167 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f32 b32
@@ -46419,6 +46828,7 @@ xfer f163 b163
 xfer f164 b164
 xfer f165 b165
 xfer f166 b166
+xfer f167 b167
 rack -1
 xfer b32 f31
 xfer b33 f32
@@ -46555,6 +46965,7 @@ xfer b163 f162
 xfer b164 f163
 xfer b165 f164
 xfer b166 f165
+xfer b167 f166
 rack 0
 rack 0
 xfer f58 b58
@@ -46666,6 +47077,7 @@ xfer f163 b163
 xfer f164 b164
 xfer f165 b165
 xfer f166 b166
+xfer f167 b167
 rack -1
 xfer b58 f57
 xfer b59 f58
@@ -46776,6 +47188,7 @@ xfer b163 f162
 xfer b164 f163
 xfer b165 f164
 xfer b166 f165
+xfer b167 f166
 rack 0
 rack 0
 xfer f84 b84
@@ -46861,6 +47274,7 @@ xfer f163 b163
 xfer f164 b164
 xfer f165 b165
 xfer f166 b166
+xfer f167 b167
 rack -1
 xfer b84 f83
 xfer b85 f84
@@ -46945,6 +47359,7 @@ xfer b163 f162
 xfer b164 f163
 xfer b165 f164
 xfer b166 f165
+xfer b167 f166
 rack 0
 rack 0
 xfer f110 b110
@@ -47004,6 +47419,7 @@ xfer f163 b163
 xfer f164 b164
 xfer f165 b165
 xfer f166 b166
+xfer f167 b167
 rack -1
 xfer b110 f109
 xfer b111 f110
@@ -47062,6 +47478,7 @@ xfer b163 f162
 xfer b164 f163
 xfer b165 f164
 xfer b166 f165
+xfer b167 f166
 rack 0
 rack 0
 xfer f136 b136
@@ -47095,6 +47512,7 @@ xfer f163 b163
 xfer f164 b164
 xfer f165 b165
 xfer f166 b166
+xfer f167 b167
 rack -1
 xfer b136 f135
 xfer b137 f136
@@ -47127,6 +47545,7 @@ xfer b163 f162
 xfer b164 f163
 xfer b165 f164
 xfer b166 f165
+xfer b167 f166
 rack 0
 rack 0
 xfer f162 b162
@@ -47134,12 +47553,14 @@ xfer f163 b163
 xfer f164 b164
 xfer f165 b165
 xfer f166 b166
+xfer f167 b167
 rack -1
 xfer b162 f161
 xfer b163 f162
 xfer b164 f163
 xfer b165 f164
 xfer b166 f165
+xfer b167 f166
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -48107,7 +48528,7 @@ knit + f160 3
 x-speed-number 400
 x-roller-advance 250
 knit + f161 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f31 b31
@@ -48240,6 +48661,7 @@ xfer f157 b157
 xfer f158 b158
 xfer f159 b159
 xfer f160 b160
+xfer f161 b161
 rack -1
 xfer b31 f30
 xfer b32 f31
@@ -48371,6 +48793,7 @@ xfer b157 f156
 xfer b158 f157
 xfer b159 f158
 xfer b160 f159
+xfer b161 f160
 rack 0
 rack 0
 xfer f56 b56
@@ -48478,6 +48901,7 @@ xfer f157 b157
 xfer f158 b158
 xfer f159 b159
 xfer f160 b160
+xfer f161 b161
 rack -1
 xfer b56 f55
 xfer b57 f56
@@ -48584,6 +49008,7 @@ xfer b157 f156
 xfer b158 f157
 xfer b159 f158
 xfer b160 f159
+xfer b161 f160
 rack 0
 rack 0
 xfer f81 b81
@@ -48666,6 +49091,7 @@ xfer f157 b157
 xfer f158 b158
 xfer f159 b159
 xfer f160 b160
+xfer f161 b161
 rack -1
 xfer b81 f80
 xfer b82 f81
@@ -48747,6 +49173,7 @@ xfer b157 f156
 xfer b158 f157
 xfer b159 f158
 xfer b160 f159
+xfer b161 f160
 rack 0
 rack 0
 xfer f106 b106
@@ -48804,6 +49231,7 @@ xfer f157 b157
 xfer f158 b158
 xfer f159 b159
 xfer f160 b160
+xfer f161 b161
 rack -1
 xfer b106 f105
 xfer b107 f106
@@ -48860,6 +49288,7 @@ xfer b157 f156
 xfer b158 f157
 xfer b159 f158
 xfer b160 f159
+xfer b161 f160
 rack 0
 rack 0
 xfer f131 b131
@@ -48892,6 +49321,7 @@ xfer f157 b157
 xfer f158 b158
 xfer f159 b159
 xfer f160 b160
+xfer f161 b161
 rack -1
 xfer b131 f130
 xfer b132 f131
@@ -48923,6 +49353,7 @@ xfer b157 f156
 xfer b158 f157
 xfer b159 f158
 xfer b160 f159
+xfer b161 f160
 rack 0
 rack 0
 xfer f156 b156
@@ -48930,12 +49361,14 @@ xfer f157 b157
 xfer f158 b158
 xfer f159 b159
 xfer f160 b160
+xfer f161 b161
 rack -1
 xfer b156 f155
 xfer b157 f156
 xfer b158 f157
 xfer b159 f158
 xfer b160 f159
+xfer b161 f160
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -49867,7 +50300,7 @@ knit + f154 3
 x-speed-number 400
 x-roller-advance 250
 knit + f155 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f30 b30
@@ -49995,6 +50428,7 @@ xfer f151 b151
 xfer f152 b152
 xfer f153 b153
 xfer f154 b154
+xfer f155 b155
 rack -1
 xfer b30 f29
 xfer b31 f30
@@ -50121,6 +50555,7 @@ xfer b151 f150
 xfer b152 f151
 xfer b153 f152
 xfer b154 f153
+xfer b155 f154
 rack 0
 rack 0
 xfer f54 b54
@@ -50224,6 +50659,7 @@ xfer f151 b151
 xfer f152 b152
 xfer f153 b153
 xfer f154 b154
+xfer f155 b155
 rack -1
 xfer b54 f53
 xfer b55 f54
@@ -50326,6 +50762,7 @@ xfer b151 f150
 xfer b152 f151
 xfer b153 f152
 xfer b154 f153
+xfer b155 f154
 rack 0
 rack 0
 xfer f78 b78
@@ -50405,6 +50842,7 @@ xfer f151 b151
 xfer f152 b152
 xfer f153 b153
 xfer f154 b154
+xfer f155 b155
 rack -1
 xfer b78 f77
 xfer b79 f78
@@ -50483,6 +50921,7 @@ xfer b151 f150
 xfer b152 f151
 xfer b153 f152
 xfer b154 f153
+xfer b155 f154
 rack 0
 rack 0
 xfer f102 b102
@@ -50538,6 +50977,7 @@ xfer f151 b151
 xfer f152 b152
 xfer f153 b153
 xfer f154 b154
+xfer f155 b155
 rack -1
 xfer b102 f101
 xfer b103 f102
@@ -50592,6 +51032,7 @@ xfer b151 f150
 xfer b152 f151
 xfer b153 f152
 xfer b154 f153
+xfer b155 f154
 rack 0
 rack 0
 xfer f126 b126
@@ -50623,6 +51064,7 @@ xfer f151 b151
 xfer f152 b152
 xfer f153 b153
 xfer f154 b154
+xfer f155 b155
 rack -1
 xfer b126 f125
 xfer b127 f126
@@ -50653,6 +51095,7 @@ xfer b151 f150
 xfer b152 f151
 xfer b153 f152
 xfer b154 f153
+xfer b155 f154
 rack 0
 rack 0
 xfer f150 b150
@@ -50660,12 +51103,14 @@ xfer f151 b151
 xfer f152 b152
 xfer f153 b153
 xfer f154 b154
+xfer f155 b155
 rack -1
 xfer b150 f149
 xfer b151 f150
 xfer b152 f151
 xfer b153 f152
 xfer b154 f153
+xfer b155 f154
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -51561,7 +52006,7 @@ knit + f148 3
 x-speed-number 400
 x-roller-advance 250
 knit + f149 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f29 b29
@@ -51684,6 +52129,7 @@ xfer f145 b145
 xfer f146 b146
 xfer f147 b147
 xfer f148 b148
+xfer f149 b149
 rack -1
 xfer b29 f28
 xfer b30 f29
@@ -51805,6 +52251,7 @@ xfer b145 f144
 xfer b146 f145
 xfer b147 f146
 xfer b148 f147
+xfer b149 f148
 rack 0
 rack 0
 xfer f52 b52
@@ -51904,6 +52351,7 @@ xfer f145 b145
 xfer f146 b146
 xfer f147 b147
 xfer f148 b148
+xfer f149 b149
 rack -1
 xfer b52 f51
 xfer b53 f52
@@ -52002,6 +52450,7 @@ xfer b145 f144
 xfer b146 f145
 xfer b147 f146
 xfer b148 f147
+xfer b149 f148
 rack 0
 rack 0
 xfer f75 b75
@@ -52078,6 +52527,7 @@ xfer f145 b145
 xfer f146 b146
 xfer f147 b147
 xfer f148 b148
+xfer f149 b149
 rack -1
 xfer b75 f74
 xfer b76 f75
@@ -52153,6 +52603,7 @@ xfer b145 f144
 xfer b146 f145
 xfer b147 f146
 xfer b148 f147
+xfer b149 f148
 rack 0
 rack 0
 xfer f98 b98
@@ -52206,6 +52657,7 @@ xfer f145 b145
 xfer f146 b146
 xfer f147 b147
 xfer f148 b148
+xfer f149 b149
 rack -1
 xfer b98 f97
 xfer b99 f98
@@ -52258,6 +52710,7 @@ xfer b145 f144
 xfer b146 f145
 xfer b147 f146
 xfer b148 f147
+xfer b149 f148
 rack 0
 rack 0
 xfer f121 b121
@@ -52288,6 +52741,7 @@ xfer f145 b145
 xfer f146 b146
 xfer f147 b147
 xfer f148 b148
+xfer f149 b149
 rack -1
 xfer b121 f120
 xfer b122 f121
@@ -52317,6 +52771,7 @@ xfer b145 f144
 xfer b146 f145
 xfer b147 f146
 xfer b148 f147
+xfer b149 f148
 rack 0
 rack 0
 xfer f144 b144
@@ -52324,12 +52779,14 @@ xfer f145 b145
 xfer f146 b146
 xfer f147 b147
 xfer f148 b148
+xfer f149 b149
 rack -1
 xfer b144 f143
 xfer b145 f144
 xfer b146 f145
 xfer b147 f146
 xfer b148 f147
+xfer b149 f148
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -53189,7 +53646,7 @@ knit + f142 3
 x-speed-number 400
 x-roller-advance 250
 knit + f143 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f28 b28
@@ -53307,6 +53764,7 @@ xfer f139 b139
 xfer f140 b140
 xfer f141 b141
 xfer f142 b142
+xfer f143 b143
 rack -1
 xfer b28 f27
 xfer b29 f28
@@ -53423,6 +53881,7 @@ xfer b139 f138
 xfer b140 f139
 xfer b141 f140
 xfer b142 f141
+xfer b143 f142
 rack 0
 rack 0
 xfer f50 b50
@@ -53518,6 +53977,7 @@ xfer f139 b139
 xfer f140 b140
 xfer f141 b141
 xfer f142 b142
+xfer f143 b143
 rack -1
 xfer b50 f49
 xfer b51 f50
@@ -53612,6 +54072,7 @@ xfer b139 f138
 xfer b140 f139
 xfer b141 f140
 xfer b142 f141
+xfer b143 f142
 rack 0
 rack 0
 xfer f72 b72
@@ -53685,6 +54146,7 @@ xfer f139 b139
 xfer f140 b140
 xfer f141 b141
 xfer f142 b142
+xfer f143 b143
 rack -1
 xfer b72 f71
 xfer b73 f72
@@ -53757,6 +54219,7 @@ xfer b139 f138
 xfer b140 f139
 xfer b141 f140
 xfer b142 f141
+xfer b143 f142
 rack 0
 rack 0
 xfer f94 b94
@@ -53808,6 +54271,7 @@ xfer f139 b139
 xfer f140 b140
 xfer f141 b141
 xfer f142 b142
+xfer f143 b143
 rack -1
 xfer b94 f93
 xfer b95 f94
@@ -53858,6 +54322,7 @@ xfer b139 f138
 xfer b140 f139
 xfer b141 f140
 xfer b142 f141
+xfer b143 f142
 rack 0
 rack 0
 xfer f116 b116
@@ -53887,6 +54352,7 @@ xfer f139 b139
 xfer f140 b140
 xfer f141 b141
 xfer f142 b142
+xfer f143 b143
 rack -1
 xfer b116 f115
 xfer b117 f116
@@ -53915,6 +54381,7 @@ xfer b139 f138
 xfer b140 f139
 xfer b141 f140
 xfer b142 f141
+xfer b143 f142
 rack 0
 rack 0
 xfer f138 b138
@@ -53922,12 +54389,14 @@ xfer f139 b139
 xfer f140 b140
 xfer f141 b141
 xfer f142 b142
+xfer f143 b143
 rack -1
 xfer b138 f137
 xfer b139 f138
 xfer b140 f139
 xfer b141 f140
 xfer b142 f141
+xfer b143 f142
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -54751,7 +55220,7 @@ knit + f136 3
 x-speed-number 400
 x-roller-advance 250
 knit + f137 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f27 b27
@@ -54864,6 +55333,7 @@ xfer f133 b133
 xfer f134 b134
 xfer f135 b135
 xfer f136 b136
+xfer f137 b137
 rack -1
 xfer b27 f26
 xfer b28 f27
@@ -54975,6 +55445,7 @@ xfer b133 f132
 xfer b134 f133
 xfer b135 f134
 xfer b136 f135
+xfer b137 f136
 rack 0
 rack 0
 xfer f48 b48
@@ -55066,6 +55537,7 @@ xfer f133 b133
 xfer f134 b134
 xfer f135 b135
 xfer f136 b136
+xfer f137 b137
 rack -1
 xfer b48 f47
 xfer b49 f48
@@ -55156,6 +55628,7 @@ xfer b133 f132
 xfer b134 f133
 xfer b135 f134
 xfer b136 f135
+xfer b137 f136
 rack 0
 rack 0
 xfer f69 b69
@@ -55226,6 +55699,7 @@ xfer f133 b133
 xfer f134 b134
 xfer f135 b135
 xfer f136 b136
+xfer f137 b137
 rack -1
 xfer b69 f68
 xfer b70 f69
@@ -55295,6 +55769,7 @@ xfer b133 f132
 xfer b134 f133
 xfer b135 f134
 xfer b136 f135
+xfer b137 f136
 rack 0
 rack 0
 xfer f90 b90
@@ -55344,6 +55819,7 @@ xfer f133 b133
 xfer f134 b134
 xfer f135 b135
 xfer f136 b136
+xfer f137 b137
 rack -1
 xfer b90 f89
 xfer b91 f90
@@ -55392,6 +55868,7 @@ xfer b133 f132
 xfer b134 f133
 xfer b135 f134
 xfer b136 f135
+xfer b137 f136
 rack 0
 rack 0
 xfer f111 b111
@@ -55420,6 +55897,7 @@ xfer f133 b133
 xfer f134 b134
 xfer f135 b135
 xfer f136 b136
+xfer f137 b137
 rack -1
 xfer b111 f110
 xfer b112 f111
@@ -55447,6 +55925,7 @@ xfer b133 f132
 xfer b134 f133
 xfer b135 f134
 xfer b136 f135
+xfer b137 f136
 rack 0
 rack 0
 xfer f132 b132
@@ -55454,12 +55933,14 @@ xfer f133 b133
 xfer f134 b134
 xfer f135 b135
 xfer f136 b136
+xfer f137 b137
 rack -1
 xfer b132 f131
 xfer b133 f132
 xfer b134 f133
 xfer b135 f134
 xfer b136 f135
+xfer b137 f136
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -56247,7 +56728,7 @@ knit + f130 3
 x-speed-number 400
 x-roller-advance 250
 knit + f131 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f26 b26
@@ -56355,6 +56836,7 @@ xfer f127 b127
 xfer f128 b128
 xfer f129 b129
 xfer f130 b130
+xfer f131 b131
 rack -1
 xfer b26 f25
 xfer b27 f26
@@ -56461,6 +56943,7 @@ xfer b127 f126
 xfer b128 f127
 xfer b129 f128
 xfer b130 f129
+xfer b131 f130
 rack 0
 rack 0
 xfer f46 b46
@@ -56548,6 +57031,7 @@ xfer f127 b127
 xfer f128 b128
 xfer f129 b129
 xfer f130 b130
+xfer f131 b131
 rack -1
 xfer b46 f45
 xfer b47 f46
@@ -56634,6 +57118,7 @@ xfer b127 f126
 xfer b128 f127
 xfer b129 f128
 xfer b130 f129
+xfer b131 f130
 rack 0
 rack 0
 xfer f66 b66
@@ -56701,6 +57186,7 @@ xfer f127 b127
 xfer f128 b128
 xfer f129 b129
 xfer f130 b130
+xfer f131 b131
 rack -1
 xfer b66 f65
 xfer b67 f66
@@ -56767,6 +57253,7 @@ xfer b127 f126
 xfer b128 f127
 xfer b129 f128
 xfer b130 f129
+xfer b131 f130
 rack 0
 rack 0
 xfer f86 b86
@@ -56814,6 +57301,7 @@ xfer f127 b127
 xfer f128 b128
 xfer f129 b129
 xfer f130 b130
+xfer f131 b131
 rack -1
 xfer b86 f85
 xfer b87 f86
@@ -56860,6 +57348,7 @@ xfer b127 f126
 xfer b128 f127
 xfer b129 f128
 xfer b130 f129
+xfer b131 f130
 rack 0
 rack 0
 xfer f106 b106
@@ -56887,6 +57376,7 @@ xfer f127 b127
 xfer f128 b128
 xfer f129 b129
 xfer f130 b130
+xfer f131 b131
 rack -1
 xfer b106 f105
 xfer b107 f106
@@ -56913,6 +57403,7 @@ xfer b127 f126
 xfer b128 f127
 xfer b129 f128
 xfer b130 f129
+xfer b131 f130
 rack 0
 rack 0
 xfer f126 b126
@@ -56920,12 +57411,14 @@ xfer f127 b127
 xfer f128 b128
 xfer f129 b129
 xfer f130 b130
+xfer f131 b131
 rack -1
 xfer b126 f125
 xfer b127 f126
 xfer b128 f127
 xfer b129 f128
 xfer b130 f129
+xfer b131 f130
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -57677,7 +58170,7 @@ knit + f124 3
 x-speed-number 400
 x-roller-advance 250
 knit + f125 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f25 b25
@@ -57780,6 +58273,7 @@ xfer f121 b121
 xfer f122 b122
 xfer f123 b123
 xfer f124 b124
+xfer f125 b125
 rack -1
 xfer b25 f24
 xfer b26 f25
@@ -57881,6 +58375,7 @@ xfer b121 f120
 xfer b122 f121
 xfer b123 f122
 xfer b124 f123
+xfer b125 f124
 rack 0
 rack 0
 xfer f44 b44
@@ -57964,6 +58459,7 @@ xfer f121 b121
 xfer f122 b122
 xfer f123 b123
 xfer f124 b124
+xfer f125 b125
 rack -1
 xfer b44 f43
 xfer b45 f44
@@ -58046,6 +58542,7 @@ xfer b121 f120
 xfer b122 f121
 xfer b123 f122
 xfer b124 f123
+xfer b125 f124
 rack 0
 rack 0
 xfer f63 b63
@@ -58110,6 +58607,7 @@ xfer f121 b121
 xfer f122 b122
 xfer f123 b123
 xfer f124 b124
+xfer f125 b125
 rack -1
 xfer b63 f62
 xfer b64 f63
@@ -58173,6 +58671,7 @@ xfer b121 f120
 xfer b122 f121
 xfer b123 f122
 xfer b124 f123
+xfer b125 f124
 rack 0
 rack 0
 xfer f82 b82
@@ -58218,6 +58717,7 @@ xfer f121 b121
 xfer f122 b122
 xfer f123 b123
 xfer f124 b124
+xfer f125 b125
 rack -1
 xfer b82 f81
 xfer b83 f82
@@ -58262,6 +58762,7 @@ xfer b121 f120
 xfer b122 f121
 xfer b123 f122
 xfer b124 f123
+xfer b125 f124
 rack 0
 rack 0
 xfer f101 b101
@@ -58288,6 +58789,7 @@ xfer f121 b121
 xfer f122 b122
 xfer f123 b123
 xfer f124 b124
+xfer f125 b125
 rack -1
 xfer b101 f100
 xfer b102 f101
@@ -58313,6 +58815,7 @@ xfer b121 f120
 xfer b122 f121
 xfer b123 f122
 xfer b124 f123
+xfer b125 f124
 rack 0
 rack 0
 xfer f120 b120
@@ -58320,12 +58823,14 @@ xfer f121 b121
 xfer f122 b122
 xfer f123 b123
 xfer f124 b124
+xfer f125 b125
 rack -1
 xfer b120 f119
 xfer b121 f120
 xfer b122 f121
 xfer b123 f122
 xfer b124 f123
+xfer b125 f124
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -59041,7 +59546,7 @@ knit + f118 3
 x-speed-number 400
 x-roller-advance 250
 knit + f119 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f24 b24
@@ -59139,6 +59644,7 @@ xfer f115 b115
 xfer f116 b116
 xfer f117 b117
 xfer f118 b118
+xfer f119 b119
 rack -1
 xfer b24 f23
 xfer b25 f24
@@ -59235,6 +59741,7 @@ xfer b115 f114
 xfer b116 f115
 xfer b117 f116
 xfer b118 f117
+xfer b119 f118
 rack 0
 rack 0
 xfer f42 b42
@@ -59314,6 +59821,7 @@ xfer f115 b115
 xfer f116 b116
 xfer f117 b117
 xfer f118 b118
+xfer f119 b119
 rack -1
 xfer b42 f41
 xfer b43 f42
@@ -59392,6 +59900,7 @@ xfer b115 f114
 xfer b116 f115
 xfer b117 f116
 xfer b118 f117
+xfer b119 f118
 rack 0
 rack 0
 xfer f60 b60
@@ -59453,6 +59962,7 @@ xfer f115 b115
 xfer f116 b116
 xfer f117 b117
 xfer f118 b118
+xfer f119 b119
 rack -1
 xfer b60 f59
 xfer b61 f60
@@ -59513,6 +60023,7 @@ xfer b115 f114
 xfer b116 f115
 xfer b117 f116
 xfer b118 f117
+xfer b119 f118
 rack 0
 rack 0
 xfer f78 b78
@@ -59556,6 +60067,7 @@ xfer f115 b115
 xfer f116 b116
 xfer f117 b117
 xfer f118 b118
+xfer f119 b119
 rack -1
 xfer b78 f77
 xfer b79 f78
@@ -59598,6 +60110,7 @@ xfer b115 f114
 xfer b116 f115
 xfer b117 f116
 xfer b118 f117
+xfer b119 f118
 rack 0
 rack 0
 xfer f96 b96
@@ -59623,6 +60136,7 @@ xfer f115 b115
 xfer f116 b116
 xfer f117 b117
 xfer f118 b118
+xfer f119 b119
 rack -1
 xfer b96 f95
 xfer b97 f96
@@ -59647,6 +60161,7 @@ xfer b115 f114
 xfer b116 f115
 xfer b117 f116
 xfer b118 f117
+xfer b119 f118
 rack 0
 rack 0
 xfer f114 b114
@@ -59654,12 +60169,14 @@ xfer f115 b115
 xfer f116 b116
 xfer f117 b117
 xfer f118 b118
+xfer f119 b119
 rack -1
 xfer b114 f113
 xfer b115 f114
 xfer b116 f115
 xfer b117 f116
 xfer b118 f117
+xfer b119 f118
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -60339,7 +60856,7 @@ knit + f112 3
 x-speed-number 400
 x-roller-advance 250
 knit + f113 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f23 b23
@@ -60432,6 +60949,7 @@ xfer f109 b109
 xfer f110 b110
 xfer f111 b111
 xfer f112 b112
+xfer f113 b113
 rack -1
 xfer b23 f22
 xfer b24 f23
@@ -60523,6 +61041,7 @@ xfer b109 f108
 xfer b110 f109
 xfer b111 f110
 xfer b112 f111
+xfer b113 f112
 rack 0
 rack 0
 xfer f40 b40
@@ -60598,6 +61117,7 @@ xfer f109 b109
 xfer f110 b110
 xfer f111 b111
 xfer f112 b112
+xfer f113 b113
 rack -1
 xfer b40 f39
 xfer b41 f40
@@ -60672,6 +61192,7 @@ xfer b109 f108
 xfer b110 f109
 xfer b111 f110
 xfer b112 f111
+xfer b113 f112
 rack 0
 rack 0
 xfer f57 b57
@@ -60730,6 +61251,7 @@ xfer f109 b109
 xfer f110 b110
 xfer f111 b111
 xfer f112 b112
+xfer f113 b113
 rack -1
 xfer b57 f56
 xfer b58 f57
@@ -60787,6 +61309,7 @@ xfer b109 f108
 xfer b110 f109
 xfer b111 f110
 xfer b112 f111
+xfer b113 f112
 rack 0
 rack 0
 xfer f74 b74
@@ -60828,6 +61351,7 @@ xfer f109 b109
 xfer f110 b110
 xfer f111 b111
 xfer f112 b112
+xfer f113 b113
 rack -1
 xfer b74 f73
 xfer b75 f74
@@ -60868,6 +61392,7 @@ xfer b109 f108
 xfer b110 f109
 xfer b111 f110
 xfer b112 f111
+xfer b113 f112
 rack 0
 rack 0
 xfer f91 b91
@@ -60892,6 +61417,7 @@ xfer f109 b109
 xfer f110 b110
 xfer f111 b111
 xfer f112 b112
+xfer f113 b113
 rack -1
 xfer b91 f90
 xfer b92 f91
@@ -60915,6 +61441,7 @@ xfer b109 f108
 xfer b110 f109
 xfer b111 f110
 xfer b112 f111
+xfer b113 f112
 rack 0
 rack 0
 xfer f108 b108
@@ -60922,12 +61449,14 @@ xfer f109 b109
 xfer f110 b110
 xfer f111 b111
 xfer f112 b112
+xfer f113 b113
 rack -1
 xfer b108 f107
 xfer b109 f108
 xfer b110 f109
 xfer b111 f110
 xfer b112 f111
+xfer b113 f112
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -61571,7 +62100,7 @@ knit + f106 3
 x-speed-number 400
 x-roller-advance 250
 knit + f107 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f22 b22
@@ -61659,6 +62188,7 @@ xfer f103 b103
 xfer f104 b104
 xfer f105 b105
 xfer f106 b106
+xfer f107 b107
 rack -1
 xfer b22 f21
 xfer b23 f22
@@ -61745,6 +62275,7 @@ xfer b103 f102
 xfer b104 f103
 xfer b105 f104
 xfer b106 f105
+xfer b107 f106
 rack 0
 rack 0
 xfer f38 b38
@@ -61816,6 +62347,7 @@ xfer f103 b103
 xfer f104 b104
 xfer f105 b105
 xfer f106 b106
+xfer f107 b107
 rack -1
 xfer b38 f37
 xfer b39 f38
@@ -61886,6 +62418,7 @@ xfer b103 f102
 xfer b104 f103
 xfer b105 f104
 xfer b106 f105
+xfer b107 f106
 rack 0
 rack 0
 xfer f54 b54
@@ -61941,6 +62474,7 @@ xfer f103 b103
 xfer f104 b104
 xfer f105 b105
 xfer f106 b106
+xfer f107 b107
 rack -1
 xfer b54 f53
 xfer b55 f54
@@ -61995,6 +62529,7 @@ xfer b103 f102
 xfer b104 f103
 xfer b105 f104
 xfer b106 f105
+xfer b107 f106
 rack 0
 rack 0
 xfer f70 b70
@@ -62034,6 +62569,7 @@ xfer f103 b103
 xfer f104 b104
 xfer f105 b105
 xfer f106 b106
+xfer f107 b107
 rack -1
 xfer b70 f69
 xfer b71 f70
@@ -62072,6 +62608,7 @@ xfer b103 f102
 xfer b104 f103
 xfer b105 f104
 xfer b106 f105
+xfer b107 f106
 rack 0
 rack 0
 xfer f86 b86
@@ -62095,6 +62632,7 @@ xfer f103 b103
 xfer f104 b104
 xfer f105 b105
 xfer f106 b106
+xfer f107 b107
 rack -1
 xfer b86 f85
 xfer b87 f86
@@ -62117,6 +62655,7 @@ xfer b103 f102
 xfer b104 f103
 xfer b105 f104
 xfer b106 f105
+xfer b107 f106
 rack 0
 rack 0
 xfer f102 b102
@@ -62124,12 +62663,14 @@ xfer f103 b103
 xfer f104 b104
 xfer f105 b105
 xfer f106 b106
+xfer f107 b107
 rack -1
 xfer b102 f101
 xfer b103 f102
 xfer b104 f103
 xfer b105 f104
 xfer b106 f105
+xfer b107 f106
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -62737,7 +63278,7 @@ knit + f100 3
 x-speed-number 400
 x-roller-advance 250
 knit + f101 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f21 b21
@@ -62820,6 +63361,7 @@ xfer f97 b97
 xfer f98 b98
 xfer f99 b99
 xfer f100 b100
+xfer f101 b101
 rack -1
 xfer b21 f20
 xfer b22 f21
@@ -62901,6 +63443,7 @@ xfer b97 f96
 xfer b98 f97
 xfer b99 f98
 xfer b100 f99
+xfer b101 f100
 rack 0
 rack 0
 xfer f36 b36
@@ -62968,6 +63511,7 @@ xfer f97 b97
 xfer f98 b98
 xfer f99 b99
 xfer f100 b100
+xfer f101 b101
 rack -1
 xfer b36 f35
 xfer b37 f36
@@ -63034,6 +63578,7 @@ xfer b97 f96
 xfer b98 f97
 xfer b99 f98
 xfer b100 f99
+xfer b101 f100
 rack 0
 rack 0
 xfer f51 b51
@@ -63086,6 +63631,7 @@ xfer f97 b97
 xfer f98 b98
 xfer f99 b99
 xfer f100 b100
+xfer f101 b101
 rack -1
 xfer b51 f50
 xfer b52 f51
@@ -63137,6 +63683,7 @@ xfer b97 f96
 xfer b98 f97
 xfer b99 f98
 xfer b100 f99
+xfer b101 f100
 rack 0
 rack 0
 xfer f66 b66
@@ -63174,6 +63721,7 @@ xfer f97 b97
 xfer f98 b98
 xfer f99 b99
 xfer f100 b100
+xfer f101 b101
 rack -1
 xfer b66 f65
 xfer b67 f66
@@ -63210,6 +63758,7 @@ xfer b97 f96
 xfer b98 f97
 xfer b99 f98
 xfer b100 f99
+xfer b101 f100
 rack 0
 rack 0
 xfer f81 b81
@@ -63232,6 +63781,7 @@ xfer f97 b97
 xfer f98 b98
 xfer f99 b99
 xfer f100 b100
+xfer f101 b101
 rack -1
 xfer b81 f80
 xfer b82 f81
@@ -63253,6 +63803,7 @@ xfer b97 f96
 xfer b98 f97
 xfer b99 f98
 xfer b100 f99
+xfer b101 f100
 rack 0
 rack 0
 xfer f96 b96
@@ -63260,12 +63811,14 @@ xfer f97 b97
 xfer f98 b98
 xfer f99 b99
 xfer f100 b100
+xfer f101 b101
 rack -1
 xfer b96 f95
 xfer b97 f96
 xfer b98 f97
 xfer b99 f98
 xfer b100 f99
+xfer b101 f100
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -63837,7 +64390,7 @@ knit + f94 3
 x-speed-number 400
 x-roller-advance 250
 knit + f95 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f20 b20
@@ -63915,6 +64468,7 @@ xfer f91 b91
 xfer f92 b92
 xfer f93 b93
 xfer f94 b94
+xfer f95 b95
 rack -1
 xfer b20 f19
 xfer b21 f20
@@ -63991,6 +64545,7 @@ xfer b91 f90
 xfer b92 f91
 xfer b93 f92
 xfer b94 f93
+xfer b95 f94
 rack 0
 rack 0
 xfer f34 b34
@@ -64054,6 +64609,7 @@ xfer f91 b91
 xfer f92 b92
 xfer f93 b93
 xfer f94 b94
+xfer f95 b95
 rack -1
 xfer b34 f33
 xfer b35 f34
@@ -64116,6 +64672,7 @@ xfer b91 f90
 xfer b92 f91
 xfer b93 f92
 xfer b94 f93
+xfer b95 f94
 rack 0
 rack 0
 xfer f48 b48
@@ -64165,6 +64722,7 @@ xfer f91 b91
 xfer f92 b92
 xfer f93 b93
 xfer f94 b94
+xfer f95 b95
 rack -1
 xfer b48 f47
 xfer b49 f48
@@ -64213,6 +64771,7 @@ xfer b91 f90
 xfer b92 f91
 xfer b93 f92
 xfer b94 f93
+xfer b95 f94
 rack 0
 rack 0
 xfer f62 b62
@@ -64248,6 +64807,7 @@ xfer f91 b91
 xfer f92 b92
 xfer f93 b93
 xfer f94 b94
+xfer f95 b95
 rack -1
 xfer b62 f61
 xfer b63 f62
@@ -64282,6 +64842,7 @@ xfer b91 f90
 xfer b92 f91
 xfer b93 f92
 xfer b94 f93
+xfer b95 f94
 rack 0
 rack 0
 xfer f76 b76
@@ -64303,6 +64864,7 @@ xfer f91 b91
 xfer f92 b92
 xfer f93 b93
 xfer f94 b94
+xfer f95 b95
 rack -1
 xfer b76 f75
 xfer b77 f76
@@ -64323,6 +64885,7 @@ xfer b91 f90
 xfer b92 f91
 xfer b93 f92
 xfer b94 f93
+xfer b95 f94
 rack 0
 rack 0
 xfer f90 b90
@@ -64330,12 +64893,14 @@ xfer f91 b91
 xfer f92 b92
 xfer f93 b93
 xfer f94 b94
+xfer f95 b95
 rack -1
 xfer b90 f89
 xfer b91 f90
 xfer b92 f91
 xfer b93 f92
 xfer b94 f93
+xfer b95 f94
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -64871,7 +65436,7 @@ knit + f88 3
 x-speed-number 400
 x-roller-advance 250
 knit + f89 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f19 b19
@@ -64944,6 +65509,7 @@ xfer f85 b85
 xfer f86 b86
 xfer f87 b87
 xfer f88 b88
+xfer f89 b89
 rack -1
 xfer b19 f18
 xfer b20 f19
@@ -65015,6 +65581,7 @@ xfer b85 f84
 xfer b86 f85
 xfer b87 f86
 xfer b88 f87
+xfer b89 f88
 rack 0
 rack 0
 xfer f32 b32
@@ -65074,6 +65641,7 @@ xfer f85 b85
 xfer f86 b86
 xfer f87 b87
 xfer f88 b88
+xfer f89 b89
 rack -1
 xfer b32 f31
 xfer b33 f32
@@ -65132,6 +65700,7 @@ xfer b85 f84
 xfer b86 f85
 xfer b87 f86
 xfer b88 f87
+xfer b89 f88
 rack 0
 rack 0
 xfer f45 b45
@@ -65178,6 +65747,7 @@ xfer f85 b85
 xfer f86 b86
 xfer f87 b87
 xfer f88 b88
+xfer f89 b89
 rack -1
 xfer b45 f44
 xfer b46 f45
@@ -65223,6 +65793,7 @@ xfer b85 f84
 xfer b86 f85
 xfer b87 f86
 xfer b88 f87
+xfer b89 f88
 rack 0
 rack 0
 xfer f58 b58
@@ -65256,6 +65827,7 @@ xfer f85 b85
 xfer f86 b86
 xfer f87 b87
 xfer f88 b88
+xfer f89 b89
 rack -1
 xfer b58 f57
 xfer b59 f58
@@ -65288,6 +65860,7 @@ xfer b85 f84
 xfer b86 f85
 xfer b87 f86
 xfer b88 f87
+xfer b89 f88
 rack 0
 rack 0
 xfer f71 b71
@@ -65308,6 +65881,7 @@ xfer f85 b85
 xfer f86 b86
 xfer f87 b87
 xfer f88 b88
+xfer f89 b89
 rack -1
 xfer b71 f70
 xfer b72 f71
@@ -65327,6 +65901,7 @@ xfer b85 f84
 xfer b86 f85
 xfer b87 f86
 xfer b88 f87
+xfer b89 f88
 rack 0
 rack 0
 xfer f84 b84
@@ -65334,12 +65909,14 @@ xfer f85 b85
 xfer f86 b86
 xfer f87 b87
 xfer f88 b88
+xfer f89 b89
 rack -1
 xfer b84 f83
 xfer b85 f84
 xfer b86 f85
 xfer b87 f86
 xfer b88 f87
+xfer b89 f88
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -65839,7 +66416,7 @@ knit + f82 3
 x-speed-number 400
 x-roller-advance 250
 knit + f83 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f18 b18
@@ -65907,6 +66484,7 @@ xfer f79 b79
 xfer f80 b80
 xfer f81 b81
 xfer f82 b82
+xfer f83 b83
 rack -1
 xfer b18 f17
 xfer b19 f18
@@ -65973,6 +66551,7 @@ xfer b79 f78
 xfer b80 f79
 xfer b81 f80
 xfer b82 f81
+xfer b83 f82
 rack 0
 rack 0
 xfer f30 b30
@@ -66028,6 +66607,7 @@ xfer f79 b79
 xfer f80 b80
 xfer f81 b81
 xfer f82 b82
+xfer f83 b83
 rack -1
 xfer b30 f29
 xfer b31 f30
@@ -66082,6 +66662,7 @@ xfer b79 f78
 xfer b80 f79
 xfer b81 f80
 xfer b82 f81
+xfer b83 f82
 rack 0
 rack 0
 xfer f42 b42
@@ -66125,6 +66706,7 @@ xfer f79 b79
 xfer f80 b80
 xfer f81 b81
 xfer f82 b82
+xfer f83 b83
 rack -1
 xfer b42 f41
 xfer b43 f42
@@ -66167,6 +66749,7 @@ xfer b79 f78
 xfer b80 f79
 xfer b81 f80
 xfer b82 f81
+xfer b83 f82
 rack 0
 rack 0
 xfer f54 b54
@@ -66198,6 +66781,7 @@ xfer f79 b79
 xfer f80 b80
 xfer f81 b81
 xfer f82 b82
+xfer f83 b83
 rack -1
 xfer b54 f53
 xfer b55 f54
@@ -66228,6 +66812,7 @@ xfer b79 f78
 xfer b80 f79
 xfer b81 f80
 xfer b82 f81
+xfer b83 f82
 rack 0
 rack 0
 xfer f66 b66
@@ -66247,6 +66832,7 @@ xfer f79 b79
 xfer f80 b80
 xfer f81 b81
 xfer f82 b82
+xfer f83 b83
 rack -1
 xfer b66 f65
 xfer b67 f66
@@ -66265,6 +66851,7 @@ xfer b79 f78
 xfer b80 f79
 xfer b81 f80
 xfer b82 f81
+xfer b83 f82
 rack 0
 rack 0
 xfer f78 b78
@@ -66272,12 +66859,14 @@ xfer f79 b79
 xfer f80 b80
 xfer f81 b81
 xfer f82 b82
+xfer f83 b83
 rack -1
 xfer b78 f77
 xfer b79 f78
 xfer b80 f79
 xfer b81 f80
 xfer b82 f81
+xfer b83 f82
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -66741,7 +67330,7 @@ knit + f76 3
 x-speed-number 400
 x-roller-advance 250
 knit + f77 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f17 b17
@@ -66804,6 +67393,7 @@ xfer f73 b73
 xfer f74 b74
 xfer f75 b75
 xfer f76 b76
+xfer f77 b77
 rack -1
 xfer b17 f16
 xfer b18 f17
@@ -66865,6 +67455,7 @@ xfer b73 f72
 xfer b74 f73
 xfer b75 f74
 xfer b76 f75
+xfer b77 f76
 rack 0
 rack 0
 xfer f28 b28
@@ -66916,6 +67507,7 @@ xfer f73 b73
 xfer f74 b74
 xfer f75 b75
 xfer f76 b76
+xfer f77 b77
 rack -1
 xfer b28 f27
 xfer b29 f28
@@ -66966,6 +67558,7 @@ xfer b73 f72
 xfer b74 f73
 xfer b75 f74
 xfer b76 f75
+xfer b77 f76
 rack 0
 rack 0
 xfer f39 b39
@@ -67006,6 +67599,7 @@ xfer f73 b73
 xfer f74 b74
 xfer f75 b75
 xfer f76 b76
+xfer f77 b77
 rack -1
 xfer b39 f38
 xfer b40 f39
@@ -67045,6 +67639,7 @@ xfer b73 f72
 xfer b74 f73
 xfer b75 f74
 xfer b76 f75
+xfer b77 f76
 rack 0
 rack 0
 xfer f50 b50
@@ -67074,6 +67669,7 @@ xfer f73 b73
 xfer f74 b74
 xfer f75 b75
 xfer f76 b76
+xfer f77 b77
 rack -1
 xfer b50 f49
 xfer b51 f50
@@ -67102,6 +67698,7 @@ xfer b73 f72
 xfer b74 f73
 xfer b75 f74
 xfer b76 f75
+xfer b77 f76
 rack 0
 rack 0
 xfer f61 b61
@@ -67120,6 +67717,7 @@ xfer f73 b73
 xfer f74 b74
 xfer f75 b75
 xfer f76 b76
+xfer f77 b77
 rack -1
 xfer b61 f60
 xfer b62 f61
@@ -67137,6 +67735,7 @@ xfer b73 f72
 xfer b74 f73
 xfer b75 f74
 xfer b76 f75
+xfer b77 f76
 rack 0
 rack 0
 xfer f72 b72
@@ -67144,12 +67743,14 @@ xfer f73 b73
 xfer f74 b74
 xfer f75 b75
 xfer f76 b76
+xfer f77 b77
 rack -1
 xfer b72 f71
 xfer b73 f72
 xfer b74 f73
 xfer b75 f74
 xfer b76 f75
+xfer b77 f76
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -67577,7 +68178,7 @@ knit + f70 3
 x-speed-number 400
 x-roller-advance 250
 knit + f71 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f16 b16
@@ -67635,6 +68236,7 @@ xfer f67 b67
 xfer f68 b68
 xfer f69 b69
 xfer f70 b70
+xfer f71 b71
 rack -1
 xfer b16 f15
 xfer b17 f16
@@ -67691,6 +68293,7 @@ xfer b67 f66
 xfer b68 f67
 xfer b69 f68
 xfer b70 f69
+xfer b71 f70
 rack 0
 rack 0
 xfer f26 b26
@@ -67738,6 +68341,7 @@ xfer f67 b67
 xfer f68 b68
 xfer f69 b69
 xfer f70 b70
+xfer f71 b71
 rack -1
 xfer b26 f25
 xfer b27 f26
@@ -67784,6 +68388,7 @@ xfer b67 f66
 xfer b68 f67
 xfer b69 f68
 xfer b70 f69
+xfer b71 f70
 rack 0
 rack 0
 xfer f36 b36
@@ -67821,6 +68426,7 @@ xfer f67 b67
 xfer f68 b68
 xfer f69 b69
 xfer f70 b70
+xfer f71 b71
 rack -1
 xfer b36 f35
 xfer b37 f36
@@ -67857,6 +68463,7 @@ xfer b67 f66
 xfer b68 f67
 xfer b69 f68
 xfer b70 f69
+xfer b71 f70
 rack 0
 rack 0
 xfer f46 b46
@@ -67884,6 +68491,7 @@ xfer f67 b67
 xfer f68 b68
 xfer f69 b69
 xfer f70 b70
+xfer f71 b71
 rack -1
 xfer b46 f45
 xfer b47 f46
@@ -67910,6 +68518,7 @@ xfer b67 f66
 xfer b68 f67
 xfer b69 f68
 xfer b70 f69
+xfer b71 f70
 rack 0
 rack 0
 xfer f56 b56
@@ -67927,6 +68536,7 @@ xfer f67 b67
 xfer f68 b68
 xfer f69 b69
 xfer f70 b70
+xfer f71 b71
 rack -1
 xfer b56 f55
 xfer b57 f56
@@ -67943,6 +68553,7 @@ xfer b67 f66
 xfer b68 f67
 xfer b69 f68
 xfer b70 f69
+xfer b71 f70
 rack 0
 rack 0
 xfer f66 b66
@@ -67950,12 +68561,14 @@ xfer f67 b67
 xfer f68 b68
 xfer f69 b69
 xfer f70 b70
+xfer f71 b71
 rack -1
 xfer b66 f65
 xfer b67 f66
 xfer b68 f67
 xfer b69 f68
 xfer b70 f69
+xfer b71 f70
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -68347,7 +68960,7 @@ knit + f64 3
 x-speed-number 400
 x-roller-advance 250
 knit + f65 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f15 b15
@@ -68400,6 +69013,7 @@ xfer f61 b61
 xfer f62 b62
 xfer f63 b63
 xfer f64 b64
+xfer f65 b65
 rack -1
 xfer b15 f14
 xfer b16 f15
@@ -68451,6 +69065,7 @@ xfer b61 f60
 xfer b62 f61
 xfer b63 f62
 xfer b64 f63
+xfer b65 f64
 rack 0
 rack 0
 xfer f24 b24
@@ -68494,6 +69109,7 @@ xfer f61 b61
 xfer f62 b62
 xfer f63 b63
 xfer f64 b64
+xfer f65 b65
 rack -1
 xfer b24 f23
 xfer b25 f24
@@ -68536,6 +69152,7 @@ xfer b61 f60
 xfer b62 f61
 xfer b63 f62
 xfer b64 f63
+xfer b65 f64
 rack 0
 rack 0
 xfer f33 b33
@@ -68570,6 +69187,7 @@ xfer f61 b61
 xfer f62 b62
 xfer f63 b63
 xfer f64 b64
+xfer f65 b65
 rack -1
 xfer b33 f32
 xfer b34 f33
@@ -68603,6 +69221,7 @@ xfer b61 f60
 xfer b62 f61
 xfer b63 f62
 xfer b64 f63
+xfer b65 f64
 rack 0
 rack 0
 xfer f42 b42
@@ -68628,6 +69247,7 @@ xfer f61 b61
 xfer f62 b62
 xfer f63 b63
 xfer f64 b64
+xfer f65 b65
 rack -1
 xfer b42 f41
 xfer b43 f42
@@ -68652,6 +69272,7 @@ xfer b61 f60
 xfer b62 f61
 xfer b63 f62
 xfer b64 f63
+xfer b65 f64
 rack 0
 rack 0
 xfer f51 b51
@@ -68668,6 +69289,7 @@ xfer f61 b61
 xfer f62 b62
 xfer f63 b63
 xfer f64 b64
+xfer f65 b65
 rack -1
 xfer b51 f50
 xfer b52 f51
@@ -68683,6 +69305,7 @@ xfer b61 f60
 xfer b62 f61
 xfer b63 f62
 xfer b64 f63
+xfer b65 f64
 rack 0
 rack 0
 xfer f60 b60
@@ -68690,12 +69313,14 @@ xfer f61 b61
 xfer f62 b62
 xfer f63 b63
 xfer f64 b64
+xfer f65 b65
 rack -1
 xfer b60 f59
 xfer b61 f60
 xfer b62 f61
 xfer b63 f62
 xfer b64 f63
+xfer b65 f64
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -69051,7 +69676,7 @@ knit + f58 3
 x-speed-number 400
 x-roller-advance 250
 knit + f59 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f14 b14
@@ -69099,6 +69724,7 @@ xfer f55 b55
 xfer f56 b56
 xfer f57 b57
 xfer f58 b58
+xfer f59 b59
 rack -1
 xfer b14 f13
 xfer b15 f14
@@ -69145,6 +69771,7 @@ xfer b55 f54
 xfer b56 f55
 xfer b57 f56
 xfer b58 f57
+xfer b59 f58
 rack 0
 rack 0
 xfer f22 b22
@@ -69184,6 +69811,7 @@ xfer f55 b55
 xfer f56 b56
 xfer f57 b57
 xfer f58 b58
+xfer f59 b59
 rack -1
 xfer b22 f21
 xfer b23 f22
@@ -69222,6 +69850,7 @@ xfer b55 f54
 xfer b56 f55
 xfer b57 f56
 xfer b58 f57
+xfer b59 f58
 rack 0
 rack 0
 xfer f30 b30
@@ -69253,6 +69882,7 @@ xfer f55 b55
 xfer f56 b56
 xfer f57 b57
 xfer f58 b58
+xfer f59 b59
 rack -1
 xfer b30 f29
 xfer b31 f30
@@ -69283,6 +69913,7 @@ xfer b55 f54
 xfer b56 f55
 xfer b57 f56
 xfer b58 f57
+xfer b59 f58
 rack 0
 rack 0
 xfer f38 b38
@@ -69306,6 +69937,7 @@ xfer f55 b55
 xfer f56 b56
 xfer f57 b57
 xfer f58 b58
+xfer f59 b59
 rack -1
 xfer b38 f37
 xfer b39 f38
@@ -69328,6 +69960,7 @@ xfer b55 f54
 xfer b56 f55
 xfer b57 f56
 xfer b58 f57
+xfer b59 f58
 rack 0
 rack 0
 xfer f46 b46
@@ -69343,6 +69976,7 @@ xfer f55 b55
 xfer f56 b56
 xfer f57 b57
 xfer f58 b58
+xfer f59 b59
 rack -1
 xfer b46 f45
 xfer b47 f46
@@ -69357,6 +69991,7 @@ xfer b55 f54
 xfer b56 f55
 xfer b57 f56
 xfer b58 f57
+xfer b59 f58
 rack 0
 rack 0
 xfer f54 b54
@@ -69364,12 +69999,14 @@ xfer f55 b55
 xfer f56 b56
 xfer f57 b57
 xfer f58 b58
+xfer f59 b59
 rack -1
 xfer b54 f53
 xfer b55 f54
 xfer b56 f55
 xfer b57 f56
 xfer b58 f57
+xfer b59 f58
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -69689,7 +70326,7 @@ knit + f52 3
 x-speed-number 400
 x-roller-advance 250
 knit + f53 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f13 b13
@@ -69732,6 +70369,7 @@ xfer f49 b49
 xfer f50 b50
 xfer f51 b51
 xfer f52 b52
+xfer f53 b53
 rack -1
 xfer b13 f12
 xfer b14 f13
@@ -69773,6 +70411,7 @@ xfer b49 f48
 xfer b50 f49
 xfer b51 f50
 xfer b52 f51
+xfer b53 f52
 rack 0
 rack 0
 xfer f20 b20
@@ -69808,6 +70447,7 @@ xfer f49 b49
 xfer f50 b50
 xfer f51 b51
 xfer f52 b52
+xfer f53 b53
 rack -1
 xfer b20 f19
 xfer b21 f20
@@ -69842,6 +70482,7 @@ xfer b49 f48
 xfer b50 f49
 xfer b51 f50
 xfer b52 f51
+xfer b53 f52
 rack 0
 rack 0
 xfer f27 b27
@@ -69870,6 +70511,7 @@ xfer f49 b49
 xfer f50 b50
 xfer f51 b51
 xfer f52 b52
+xfer f53 b53
 rack -1
 xfer b27 f26
 xfer b28 f27
@@ -69897,6 +70539,7 @@ xfer b49 f48
 xfer b50 f49
 xfer b51 f50
 xfer b52 f51
+xfer b53 f52
 rack 0
 rack 0
 xfer f34 b34
@@ -69918,6 +70561,7 @@ xfer f49 b49
 xfer f50 b50
 xfer f51 b51
 xfer f52 b52
+xfer f53 b53
 rack -1
 xfer b34 f33
 xfer b35 f34
@@ -69938,6 +70582,7 @@ xfer b49 f48
 xfer b50 f49
 xfer b51 f50
 xfer b52 f51
+xfer b53 f52
 rack 0
 rack 0
 xfer f41 b41
@@ -69952,6 +70597,7 @@ xfer f49 b49
 xfer f50 b50
 xfer f51 b51
 xfer f52 b52
+xfer f53 b53
 rack -1
 xfer b41 f40
 xfer b42 f41
@@ -69965,6 +70611,7 @@ xfer b49 f48
 xfer b50 f49
 xfer b51 f50
 xfer b52 f51
+xfer b53 f52
 rack 0
 rack 0
 xfer f48 b48
@@ -69972,12 +70619,14 @@ xfer f49 b49
 xfer f50 b50
 xfer f51 b51
 xfer f52 b52
+xfer f53 b53
 rack -1
 xfer b48 f47
 xfer b49 f48
 xfer b50 f49
 xfer b51 f50
 xfer b52 f51
+xfer b53 f52
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -70261,7 +70910,7 @@ knit + f46 3
 x-speed-number 400
 x-roller-advance 250
 knit + f47 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f12 b12
@@ -70299,6 +70948,7 @@ xfer f43 b43
 xfer f44 b44
 xfer f45 b45
 xfer f46 b46
+xfer f47 b47
 rack -1
 xfer b12 f11
 xfer b13 f12
@@ -70335,6 +70985,7 @@ xfer b43 f42
 xfer b44 f43
 xfer b45 f44
 xfer b46 f45
+xfer b47 f46
 rack 0
 rack 0
 xfer f18 b18
@@ -70366,6 +71017,7 @@ xfer f43 b43
 xfer f44 b44
 xfer f45 b45
 xfer f46 b46
+xfer f47 b47
 rack -1
 xfer b18 f17
 xfer b19 f18
@@ -70396,6 +71048,7 @@ xfer b43 f42
 xfer b44 f43
 xfer b45 f44
 xfer b46 f45
+xfer b47 f46
 rack 0
 rack 0
 xfer f24 b24
@@ -70421,6 +71074,7 @@ xfer f43 b43
 xfer f44 b44
 xfer f45 b45
 xfer f46 b46
+xfer f47 b47
 rack -1
 xfer b24 f23
 xfer b25 f24
@@ -70445,6 +71099,7 @@ xfer b43 f42
 xfer b44 f43
 xfer b45 f44
 xfer b46 f45
+xfer b47 f46
 rack 0
 rack 0
 xfer f30 b30
@@ -70464,6 +71119,7 @@ xfer f43 b43
 xfer f44 b44
 xfer f45 b45
 xfer f46 b46
+xfer f47 b47
 rack -1
 xfer b30 f29
 xfer b31 f30
@@ -70482,6 +71138,7 @@ xfer b43 f42
 xfer b44 f43
 xfer b45 f44
 xfer b46 f45
+xfer b47 f46
 rack 0
 rack 0
 xfer f36 b36
@@ -70495,6 +71152,7 @@ xfer f43 b43
 xfer f44 b44
 xfer f45 b45
 xfer f46 b46
+xfer f47 b47
 rack -1
 xfer b36 f35
 xfer b37 f36
@@ -70507,6 +71165,7 @@ xfer b43 f42
 xfer b44 f43
 xfer b45 f44
 xfer b46 f45
+xfer b47 f46
 rack 0
 rack 0
 xfer f42 b42
@@ -70514,12 +71173,14 @@ xfer f43 b43
 xfer f44 b44
 xfer f45 b45
 xfer f46 b46
+xfer f47 b47
 rack -1
 xfer b42 f41
 xfer b43 f42
 xfer b44 f43
 xfer b45 f44
 xfer b46 f45
+xfer b47 f46
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -70767,7 +71428,7 @@ knit + f40 3
 x-speed-number 400
 x-roller-advance 250
 knit + f41 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f11 b11
@@ -70800,6 +71461,7 @@ xfer f37 b37
 xfer f38 b38
 xfer f39 b39
 xfer f40 b40
+xfer f41 b41
 rack -1
 xfer b11 f10
 xfer b12 f11
@@ -70831,6 +71493,7 @@ xfer b37 f36
 xfer b38 f37
 xfer b39 f38
 xfer b40 f39
+xfer b41 f40
 rack 0
 rack 0
 xfer f16 b16
@@ -70858,6 +71521,7 @@ xfer f37 b37
 xfer f38 b38
 xfer f39 b39
 xfer f40 b40
+xfer f41 b41
 rack -1
 xfer b16 f15
 xfer b17 f16
@@ -70884,6 +71548,7 @@ xfer b37 f36
 xfer b38 f37
 xfer b39 f38
 xfer b40 f39
+xfer b41 f40
 rack 0
 rack 0
 xfer f21 b21
@@ -70906,6 +71571,7 @@ xfer f37 b37
 xfer f38 b38
 xfer f39 b39
 xfer f40 b40
+xfer f41 b41
 rack -1
 xfer b21 f20
 xfer b22 f21
@@ -70927,6 +71593,7 @@ xfer b37 f36
 xfer b38 f37
 xfer b39 f38
 xfer b40 f39
+xfer b41 f40
 rack 0
 rack 0
 xfer f26 b26
@@ -70944,6 +71611,7 @@ xfer f37 b37
 xfer f38 b38
 xfer f39 b39
 xfer f40 b40
+xfer f41 b41
 rack -1
 xfer b26 f25
 xfer b27 f26
@@ -70960,6 +71628,7 @@ xfer b37 f36
 xfer b38 f37
 xfer b39 f38
 xfer b40 f39
+xfer b41 f40
 rack 0
 rack 0
 xfer f31 b31
@@ -70972,6 +71641,7 @@ xfer f37 b37
 xfer f38 b38
 xfer f39 b39
 xfer f40 b40
+xfer f41 b41
 rack -1
 xfer b31 f30
 xfer b32 f31
@@ -70983,6 +71653,7 @@ xfer b37 f36
 xfer b38 f37
 xfer b39 f38
 xfer b40 f39
+xfer b41 f40
 rack 0
 rack 0
 xfer f36 b36
@@ -70990,12 +71661,14 @@ xfer f37 b37
 xfer f38 b38
 xfer f39 b39
 xfer f40 b40
+xfer f41 b41
 rack -1
 xfer b36 f35
 xfer b37 f36
 xfer b38 f37
 xfer b39 f38
 xfer b40 f39
+xfer b41 f40
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -71207,7 +71880,7 @@ knit + f34 3
 x-speed-number 400
 x-roller-advance 250
 knit + f35 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f10 b10
@@ -71235,6 +71908,7 @@ xfer f31 b31
 xfer f32 b32
 xfer f33 b33
 xfer f34 b34
+xfer f35 b35
 rack -1
 xfer b10 f9
 xfer b11 f10
@@ -71261,6 +71935,7 @@ xfer b31 f30
 xfer b32 f31
 xfer b33 f32
 xfer b34 f33
+xfer b35 f34
 rack 0
 rack 0
 xfer f14 b14
@@ -71284,6 +71959,7 @@ xfer f31 b31
 xfer f32 b32
 xfer f33 b33
 xfer f34 b34
+xfer f35 b35
 rack -1
 xfer b14 f13
 xfer b15 f14
@@ -71306,6 +71982,7 @@ xfer b31 f30
 xfer b32 f31
 xfer b33 f32
 xfer b34 f33
+xfer b35 f34
 rack 0
 rack 0
 xfer f18 b18
@@ -71325,6 +72002,7 @@ xfer f31 b31
 xfer f32 b32
 xfer f33 b33
 xfer f34 b34
+xfer f35 b35
 rack -1
 xfer b18 f17
 xfer b19 f18
@@ -71343,6 +72021,7 @@ xfer b31 f30
 xfer b32 f31
 xfer b33 f32
 xfer b34 f33
+xfer b35 f34
 rack 0
 rack 0
 xfer f22 b22
@@ -71358,6 +72037,7 @@ xfer f31 b31
 xfer f32 b32
 xfer f33 b33
 xfer f34 b34
+xfer f35 b35
 rack -1
 xfer b22 f21
 xfer b23 f22
@@ -71372,6 +72052,7 @@ xfer b31 f30
 xfer b32 f31
 xfer b33 f32
 xfer b34 f33
+xfer b35 f34
 rack 0
 rack 0
 xfer f26 b26
@@ -71383,6 +72064,7 @@ xfer f31 b31
 xfer f32 b32
 xfer f33 b33
 xfer f34 b34
+xfer f35 b35
 rack -1
 xfer b26 f25
 xfer b27 f26
@@ -71393,6 +72075,7 @@ xfer b31 f30
 xfer b32 f31
 xfer b33 f32
 xfer b34 f33
+xfer b35 f34
 rack 0
 rack 0
 xfer f30 b30
@@ -71400,12 +72083,14 @@ xfer f31 b31
 xfer f32 b32
 xfer f33 b33
 xfer f34 b34
+xfer f35 b35
 rack -1
 xfer b30 f29
 xfer b31 f30
 xfer b32 f31
 xfer b33 f32
 xfer b34 f33
+xfer b35 f34
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -71581,7 +72266,7 @@ knit + f28 3
 x-speed-number 400
 x-roller-advance 250
 knit + f29 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f9 b9
@@ -71604,6 +72289,7 @@ xfer f25 b25
 xfer f26 b26
 xfer f27 b27
 xfer f28 b28
+xfer f29 b29
 rack -1
 xfer b9 f8
 xfer b10 f9
@@ -71625,6 +72311,7 @@ xfer b25 f24
 xfer b26 f25
 xfer b27 f26
 xfer b28 f27
+xfer b29 f28
 rack 0
 rack 0
 xfer f12 b12
@@ -71644,6 +72331,7 @@ xfer f25 b25
 xfer f26 b26
 xfer f27 b27
 xfer f28 b28
+xfer f29 b29
 rack -1
 xfer b12 f11
 xfer b13 f12
@@ -71662,6 +72350,7 @@ xfer b25 f24
 xfer b26 f25
 xfer b27 f26
 xfer b28 f27
+xfer b29 f28
 rack 0
 rack 0
 xfer f15 b15
@@ -71678,6 +72367,7 @@ xfer f25 b25
 xfer f26 b26
 xfer f27 b27
 xfer f28 b28
+xfer f29 b29
 rack -1
 xfer b15 f14
 xfer b16 f15
@@ -71693,6 +72383,7 @@ xfer b25 f24
 xfer b26 f25
 xfer b27 f26
 xfer b28 f27
+xfer b29 f28
 rack 0
 rack 0
 xfer f18 b18
@@ -71706,6 +72397,7 @@ xfer f25 b25
 xfer f26 b26
 xfer f27 b27
 xfer f28 b28
+xfer f29 b29
 rack -1
 xfer b18 f17
 xfer b19 f18
@@ -71718,6 +72410,7 @@ xfer b25 f24
 xfer b26 f25
 xfer b27 f26
 xfer b28 f27
+xfer b29 f28
 rack 0
 rack 0
 xfer f21 b21
@@ -71728,6 +72421,7 @@ xfer f25 b25
 xfer f26 b26
 xfer f27 b27
 xfer f28 b28
+xfer f29 b29
 rack -1
 xfer b21 f20
 xfer b22 f21
@@ -71737,6 +72431,7 @@ xfer b25 f24
 xfer b26 f25
 xfer b27 f26
 xfer b28 f27
+xfer b29 f28
 rack 0
 rack 0
 xfer f24 b24
@@ -71744,12 +72439,14 @@ xfer f25 b25
 xfer f26 b26
 xfer f27 b27
 xfer f28 b28
+xfer f29 b29
 rack -1
 xfer b24 f23
 xfer b25 f24
 xfer b26 f25
 xfer b27 f26
 xfer b28 f27
+xfer b29 f28
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -71889,7 +72586,7 @@ knit + f22 3
 x-speed-number 400
 x-roller-advance 250
 knit + f23 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f8 b8
@@ -71907,6 +72604,7 @@ xfer f19 b19
 xfer f20 b20
 xfer f21 b21
 xfer f22 b22
+xfer f23 b23
 rack -1
 xfer b8 f7
 xfer b9 f8
@@ -71923,6 +72621,7 @@ xfer b19 f18
 xfer b20 f19
 xfer b21 f20
 xfer b22 f21
+xfer b23 f22
 rack 0
 rack 0
 xfer f10 b10
@@ -71938,6 +72637,7 @@ xfer f19 b19
 xfer f20 b20
 xfer f21 b21
 xfer f22 b22
+xfer f23 b23
 rack -1
 xfer b10 f9
 xfer b11 f10
@@ -71952,6 +72652,7 @@ xfer b19 f18
 xfer b20 f19
 xfer b21 f20
 xfer b22 f21
+xfer b23 f22
 rack 0
 rack 0
 xfer f12 b12
@@ -71965,6 +72666,7 @@ xfer f19 b19
 xfer f20 b20
 xfer f21 b21
 xfer f22 b22
+xfer f23 b23
 rack -1
 xfer b12 f11
 xfer b13 f12
@@ -71977,6 +72679,7 @@ xfer b19 f18
 xfer b20 f19
 xfer b21 f20
 xfer b22 f21
+xfer b23 f22
 rack 0
 rack 0
 xfer f14 b14
@@ -71988,6 +72691,7 @@ xfer f19 b19
 xfer f20 b20
 xfer f21 b21
 xfer f22 b22
+xfer f23 b23
 rack -1
 xfer b14 f13
 xfer b15 f14
@@ -71998,6 +72702,7 @@ xfer b19 f18
 xfer b20 f19
 xfer b21 f20
 xfer b22 f21
+xfer b23 f22
 rack 0
 rack 0
 xfer f16 b16
@@ -72007,6 +72712,7 @@ xfer f19 b19
 xfer f20 b20
 xfer f21 b21
 xfer f22 b22
+xfer f23 b23
 rack -1
 xfer b16 f15
 xfer b17 f16
@@ -72015,6 +72721,7 @@ xfer b19 f18
 xfer b20 f19
 xfer b21 f20
 xfer b22 f21
+xfer b23 f22
 rack 0
 rack 0
 xfer f18 b18
@@ -72022,12 +72729,14 @@ xfer f19 b19
 xfer f20 b20
 xfer f21 b21
 xfer f22 b22
+xfer f23 b23
 rack -1
 xfer b18 f17
 xfer b19 f18
 xfer b20 f19
 xfer b21 f20
 xfer b22 f21
+xfer b23 f22
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -72131,7 +72840,7 @@ knit + f16 3
 x-speed-number 400
 x-roller-advance 250
 knit + f17 3
-x-speed-number 150
+x-speed-number 200
 x-roller-advance 0
 rack 0
 xfer f7 b7
@@ -72144,6 +72853,7 @@ xfer f13 b13
 xfer f14 b14
 xfer f15 b15
 xfer f16 b16
+xfer f17 b17
 rack -1
 xfer b7 f6
 xfer b8 f7
@@ -72155,6 +72865,7 @@ xfer b13 f12
 xfer b14 f13
 xfer b15 f14
 xfer b16 f15
+xfer b17 f16
 rack 0
 rack 0
 xfer f8 b8
@@ -72166,6 +72877,7 @@ xfer f13 b13
 xfer f14 b14
 xfer f15 b15
 xfer f16 b16
+xfer f17 b17
 rack -1
 xfer b8 f7
 xfer b9 f8
@@ -72176,6 +72888,7 @@ xfer b13 f12
 xfer b14 f13
 xfer b15 f14
 xfer b16 f15
+xfer b17 f16
 rack 0
 rack 0
 xfer f9 b9
@@ -72186,6 +72899,7 @@ xfer f13 b13
 xfer f14 b14
 xfer f15 b15
 xfer f16 b16
+xfer f17 b17
 rack -1
 xfer b9 f8
 xfer b10 f9
@@ -72195,6 +72909,7 @@ xfer b13 f12
 xfer b14 f13
 xfer b15 f14
 xfer b16 f15
+xfer b17 f16
 rack 0
 rack 0
 xfer f10 b10
@@ -72204,6 +72919,7 @@ xfer f13 b13
 xfer f14 b14
 xfer f15 b15
 xfer f16 b16
+xfer f17 b17
 rack -1
 xfer b10 f9
 xfer b11 f10
@@ -72212,6 +72928,7 @@ xfer b13 f12
 xfer b14 f13
 xfer b15 f14
 xfer b16 f15
+xfer b17 f16
 rack 0
 rack 0
 xfer f11 b11
@@ -72220,6 +72937,7 @@ xfer f13 b13
 xfer f14 b14
 xfer f15 b15
 xfer f16 b16
+xfer f17 b17
 rack -1
 xfer b11 f10
 xfer b12 f11
@@ -72227,6 +72945,7 @@ xfer b13 f12
 xfer b14 f13
 xfer b15 f14
 xfer b16 f15
+xfer b17 f16
 rack 0
 rack 0
 xfer f12 b12
@@ -72234,12 +72953,14 @@ xfer f13 b13
 xfer f14 b14
 xfer f15 b15
 xfer f16 b16
+xfer f17 b17
 rack -1
 xfer b12 f11
 xfer b13 f12
 xfer b14 f13
 xfer b15 f14
 xfer b16 f15
+xfer b17 f16
 rack 0
 x-speed-number 400
 x-roller-advance 500
@@ -72861,6 +73582,6 @@ drop f8
 drop f9
 drop f10
 drop f11
-out 3
-out 1
 out 2
+out 1
+out 3
