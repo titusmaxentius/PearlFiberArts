@@ -2,6 +2,8 @@
 ;;Carriers: 1 2 3 4 5 6
 ;;Machine: Kniterate
 ;;Gauge: 7
+x-xfer-style four-pass
+x-stitch-number 5
 in 2
 knit + f1 2
 knit + b2 2
@@ -20795,6 +20797,7 @@ drop b182
 drop b183
 drop b184
 in 1
+x-stitch-number 5
 knit + f1 1
 knit + f2 1
 knit + f3 1
@@ -20981,6 +20984,9 @@ knit + f183 1
 knit + f184 1
 in 3
 rack 0.25
+x-speed-number 300
+x-stitch-number A
+x-roller-advance 500
 knit - b184 3
 knit - f184 3
 knit - b183 3
@@ -21351,6 +21357,8 @@ knit - b1 3
 knit - f1 3
 rack 0
 ;Cast on complete
+x-speed-number 100
+x-roller-advance 150
 xfer f1 b1
 xfer f2 b2
 xfer b3 f3
@@ -21719,6 +21727,8 @@ knit + b181 3
 knit + b182 3
 knit + f183 3
 knit + f184 3
+x-speed-number 400
+x-roller-advance 500
 knit + b1 3
 knit + b2 3
 knit + f3 3
@@ -40119,6 +40129,8 @@ knit - f4 3
 knit - f3 3
 knit - b2 3
 knit - b1 3
+x-roller-advance 250
+x-speed-number 150
 xfer b1 f1
 xfer b2 f2
 xfer b5 f5
@@ -40395,6 +40407,8 @@ knit + f181 3
 knit + f182 3
 knit + f183 3
 knit + f184 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f35 b35
 xfer f36 b36
@@ -41343,364 +41357,1082 @@ xfer b182 f181
 xfer b183 f182
 xfer b184 f183
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f179 3
+x-speed-number 400
+x-roller-advance 500
 knit - f178 3
+x-speed-number 400
+x-roller-advance 500
 knit - f177 3
+x-speed-number 400
+x-roller-advance 500
 knit - f176 3
+x-speed-number 400
+x-roller-advance 500
 knit - f175 3
+x-speed-number 400
+x-roller-advance 500
 knit - f174 3
+x-speed-number 400
+x-roller-advance 500
 knit - f173 3
+x-speed-number 400
+x-roller-advance 500
 knit - f172 3
+x-speed-number 400
+x-roller-advance 500
 knit - f171 3
+x-speed-number 400
+x-roller-advance 500
 knit - f170 3
+x-speed-number 400
+x-roller-advance 500
 knit - f169 3
+x-speed-number 400
+x-roller-advance 500
 knit - f168 3
+x-speed-number 400
+x-roller-advance 500
 knit - f167 3
+x-speed-number 400
+x-roller-advance 500
 knit - f166 3
+x-speed-number 400
+x-roller-advance 500
 knit - f165 3
+x-speed-number 400
+x-roller-advance 500
 knit - f164 3
+x-speed-number 400
+x-roller-advance 500
 knit - f163 3
+x-speed-number 400
+x-roller-advance 500
 knit - f162 3
+x-speed-number 400
+x-roller-advance 500
 knit - f161 3
+x-speed-number 400
+x-roller-advance 500
 knit - f160 3
+x-speed-number 400
+x-roller-advance 500
 knit - f159 3
+x-speed-number 400
+x-roller-advance 500
 knit - f158 3
+x-speed-number 400
+x-roller-advance 500
 knit - f157 3
+x-speed-number 400
+x-roller-advance 500
 knit - f156 3
+x-speed-number 400
+x-roller-advance 500
 knit - f155 3
+x-speed-number 400
+x-roller-advance 500
 knit - f154 3
+x-speed-number 400
+x-roller-advance 500
 knit - f153 3
+x-speed-number 400
+x-roller-advance 500
 knit - f152 3
+x-speed-number 400
+x-roller-advance 500
 knit - f151 3
+x-speed-number 400
+x-roller-advance 500
 knit - f150 3
+x-speed-number 400
+x-roller-advance 500
 knit - f149 3
+x-speed-number 400
+x-roller-advance 500
 knit - f148 3
+x-speed-number 400
+x-roller-advance 500
 knit - f147 3
+x-speed-number 400
+x-roller-advance 500
 knit - f146 3
+x-speed-number 400
+x-roller-advance 500
 knit - f145 3
+x-speed-number 400
+x-roller-advance 500
 knit - f144 3
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 400
+x-roller-advance 250
 knit + f144 3
+x-speed-number 400
+x-roller-advance 250
 knit + f145 3
+x-speed-number 400
+x-roller-advance 250
 knit + f146 3
+x-speed-number 400
+x-roller-advance 250
 knit + f147 3
+x-speed-number 400
+x-roller-advance 250
 knit + f148 3
+x-speed-number 400
+x-roller-advance 250
 knit + f149 3
+x-speed-number 400
+x-roller-advance 250
 knit + f150 3
+x-speed-number 400
+x-roller-advance 250
 knit + f151 3
+x-speed-number 400
+x-roller-advance 250
 knit + f152 3
+x-speed-number 400
+x-roller-advance 250
 knit + f153 3
+x-speed-number 400
+x-roller-advance 250
 knit + f154 3
+x-speed-number 400
+x-roller-advance 250
 knit + f155 3
+x-speed-number 400
+x-roller-advance 250
 knit + f156 3
+x-speed-number 400
+x-roller-advance 250
 knit + f157 3
+x-speed-number 400
+x-roller-advance 250
 knit + f158 3
+x-speed-number 400
+x-roller-advance 250
 knit + f159 3
+x-speed-number 400
+x-roller-advance 250
 knit + f160 3
+x-speed-number 400
+x-roller-advance 250
 knit + f161 3
+x-speed-number 400
+x-roller-advance 250
 knit + f162 3
+x-speed-number 400
+x-roller-advance 250
 knit + f163 3
+x-speed-number 400
+x-roller-advance 250
 knit + f164 3
+x-speed-number 400
+x-roller-advance 250
 knit + f165 3
+x-speed-number 400
+x-roller-advance 250
 knit + f166 3
+x-speed-number 400
+x-roller-advance 250
 knit + f167 3
+x-speed-number 400
+x-roller-advance 250
 knit + f168 3
+x-speed-number 400
+x-roller-advance 250
 knit + f169 3
+x-speed-number 400
+x-roller-advance 250
 knit + f170 3
+x-speed-number 400
+x-roller-advance 250
 knit + f171 3
+x-speed-number 400
+x-roller-advance 250
 knit + f172 3
+x-speed-number 400
+x-roller-advance 250
 knit + f173 3
+x-speed-number 400
+x-roller-advance 250
 knit + f174 3
+x-speed-number 400
+x-roller-advance 250
 knit + f175 3
+x-speed-number 400
+x-roller-advance 250
 knit + f176 3
+x-speed-number 400
+x-roller-advance 250
 knit + f177 3
+x-speed-number 400
+x-roller-advance 250
 knit + f178 3
+x-speed-number 400
+x-roller-advance 250
 knit + f179 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f34 b34
 xfer f35 b35
@@ -42619,352 +43351,1046 @@ xfer b176 f175
 xfer b177 f176
 xfer b178 f177
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f173 3
+x-speed-number 400
+x-roller-advance 500
 knit - f172 3
+x-speed-number 400
+x-roller-advance 500
 knit - f171 3
+x-speed-number 400
+x-roller-advance 500
 knit - f170 3
+x-speed-number 400
+x-roller-advance 500
 knit - f169 3
+x-speed-number 400
+x-roller-advance 500
 knit - f168 3
+x-speed-number 400
+x-roller-advance 500
 knit - f167 3
+x-speed-number 400
+x-roller-advance 500
 knit - f166 3
+x-speed-number 400
+x-roller-advance 500
 knit - f165 3
+x-speed-number 400
+x-roller-advance 500
 knit - f164 3
+x-speed-number 400
+x-roller-advance 500
 knit - f163 3
+x-speed-number 400
+x-roller-advance 500
 knit - f162 3
+x-speed-number 400
+x-roller-advance 500
 knit - f161 3
+x-speed-number 400
+x-roller-advance 500
 knit - f160 3
+x-speed-number 400
+x-roller-advance 500
 knit - f159 3
+x-speed-number 400
+x-roller-advance 500
 knit - f158 3
+x-speed-number 400
+x-roller-advance 500
 knit - f157 3
+x-speed-number 400
+x-roller-advance 500
 knit - f156 3
+x-speed-number 400
+x-roller-advance 500
 knit - f155 3
+x-speed-number 400
+x-roller-advance 500
 knit - f154 3
+x-speed-number 400
+x-roller-advance 500
 knit - f153 3
+x-speed-number 400
+x-roller-advance 500
 knit - f152 3
+x-speed-number 400
+x-roller-advance 500
 knit - f151 3
+x-speed-number 400
+x-roller-advance 500
 knit - f150 3
+x-speed-number 400
+x-roller-advance 500
 knit - f149 3
+x-speed-number 400
+x-roller-advance 500
 knit - f148 3
+x-speed-number 400
+x-roller-advance 500
 knit - f147 3
+x-speed-number 400
+x-roller-advance 500
 knit - f146 3
+x-speed-number 400
+x-roller-advance 500
 knit - f145 3
+x-speed-number 400
+x-roller-advance 500
 knit - f144 3
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 400
+x-roller-advance 250
 knit + f144 3
+x-speed-number 400
+x-roller-advance 250
 knit + f145 3
+x-speed-number 400
+x-roller-advance 250
 knit + f146 3
+x-speed-number 400
+x-roller-advance 250
 knit + f147 3
+x-speed-number 400
+x-roller-advance 250
 knit + f148 3
+x-speed-number 400
+x-roller-advance 250
 knit + f149 3
+x-speed-number 400
+x-roller-advance 250
 knit + f150 3
+x-speed-number 400
+x-roller-advance 250
 knit + f151 3
+x-speed-number 400
+x-roller-advance 250
 knit + f152 3
+x-speed-number 400
+x-roller-advance 250
 knit + f153 3
+x-speed-number 400
+x-roller-advance 250
 knit + f154 3
+x-speed-number 400
+x-roller-advance 250
 knit + f155 3
+x-speed-number 400
+x-roller-advance 250
 knit + f156 3
+x-speed-number 400
+x-roller-advance 250
 knit + f157 3
+x-speed-number 400
+x-roller-advance 250
 knit + f158 3
+x-speed-number 400
+x-roller-advance 250
 knit + f159 3
+x-speed-number 400
+x-roller-advance 250
 knit + f160 3
+x-speed-number 400
+x-roller-advance 250
 knit + f161 3
+x-speed-number 400
+x-roller-advance 250
 knit + f162 3
+x-speed-number 400
+x-roller-advance 250
 knit + f163 3
+x-speed-number 400
+x-roller-advance 250
 knit + f164 3
+x-speed-number 400
+x-roller-advance 250
 knit + f165 3
+x-speed-number 400
+x-roller-advance 250
 knit + f166 3
+x-speed-number 400
+x-roller-advance 250
 knit + f167 3
+x-speed-number 400
+x-roller-advance 250
 knit + f168 3
+x-speed-number 400
+x-roller-advance 250
 knit + f169 3
+x-speed-number 400
+x-roller-advance 250
 knit + f170 3
+x-speed-number 400
+x-roller-advance 250
 knit + f171 3
+x-speed-number 400
+x-roller-advance 250
 knit + f172 3
+x-speed-number 400
+x-roller-advance 250
 knit + f173 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f33 b33
 xfer f34 b34
@@ -43853,340 +45279,1010 @@ xfer b170 f169
 xfer b171 f170
 xfer b172 f171
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f167 3
+x-speed-number 400
+x-roller-advance 500
 knit - f166 3
+x-speed-number 400
+x-roller-advance 500
 knit - f165 3
+x-speed-number 400
+x-roller-advance 500
 knit - f164 3
+x-speed-number 400
+x-roller-advance 500
 knit - f163 3
+x-speed-number 400
+x-roller-advance 500
 knit - f162 3
+x-speed-number 400
+x-roller-advance 500
 knit - f161 3
+x-speed-number 400
+x-roller-advance 500
 knit - f160 3
+x-speed-number 400
+x-roller-advance 500
 knit - f159 3
+x-speed-number 400
+x-roller-advance 500
 knit - f158 3
+x-speed-number 400
+x-roller-advance 500
 knit - f157 3
+x-speed-number 400
+x-roller-advance 500
 knit - f156 3
+x-speed-number 400
+x-roller-advance 500
 knit - f155 3
+x-speed-number 400
+x-roller-advance 500
 knit - f154 3
+x-speed-number 400
+x-roller-advance 500
 knit - f153 3
+x-speed-number 400
+x-roller-advance 500
 knit - f152 3
+x-speed-number 400
+x-roller-advance 500
 knit - f151 3
+x-speed-number 400
+x-roller-advance 500
 knit - f150 3
+x-speed-number 400
+x-roller-advance 500
 knit - f149 3
+x-speed-number 400
+x-roller-advance 500
 knit - f148 3
+x-speed-number 400
+x-roller-advance 500
 knit - f147 3
+x-speed-number 400
+x-roller-advance 500
 knit - f146 3
+x-speed-number 400
+x-roller-advance 500
 knit - f145 3
+x-speed-number 400
+x-roller-advance 500
 knit - f144 3
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 400
+x-roller-advance 250
 knit + f144 3
+x-speed-number 400
+x-roller-advance 250
 knit + f145 3
+x-speed-number 400
+x-roller-advance 250
 knit + f146 3
+x-speed-number 400
+x-roller-advance 250
 knit + f147 3
+x-speed-number 400
+x-roller-advance 250
 knit + f148 3
+x-speed-number 400
+x-roller-advance 250
 knit + f149 3
+x-speed-number 400
+x-roller-advance 250
 knit + f150 3
+x-speed-number 400
+x-roller-advance 250
 knit + f151 3
+x-speed-number 400
+x-roller-advance 250
 knit + f152 3
+x-speed-number 400
+x-roller-advance 250
 knit + f153 3
+x-speed-number 400
+x-roller-advance 250
 knit + f154 3
+x-speed-number 400
+x-roller-advance 250
 knit + f155 3
+x-speed-number 400
+x-roller-advance 250
 knit + f156 3
+x-speed-number 400
+x-roller-advance 250
 knit + f157 3
+x-speed-number 400
+x-roller-advance 250
 knit + f158 3
+x-speed-number 400
+x-roller-advance 250
 knit + f159 3
+x-speed-number 400
+x-roller-advance 250
 knit + f160 3
+x-speed-number 400
+x-roller-advance 250
 knit + f161 3
+x-speed-number 400
+x-roller-advance 250
 knit + f162 3
+x-speed-number 400
+x-roller-advance 250
 knit + f163 3
+x-speed-number 400
+x-roller-advance 250
 knit + f164 3
+x-speed-number 400
+x-roller-advance 250
 knit + f165 3
+x-speed-number 400
+x-roller-advance 250
 knit + f166 3
+x-speed-number 400
+x-roller-advance 250
 knit + f167 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f32 b32
 xfer f33 b33
@@ -45045,328 +47141,974 @@ xfer b164 f163
 xfer b165 f164
 xfer b166 f165
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f161 3
+x-speed-number 400
+x-roller-advance 500
 knit - f160 3
+x-speed-number 400
+x-roller-advance 500
 knit - f159 3
+x-speed-number 400
+x-roller-advance 500
 knit - f158 3
+x-speed-number 400
+x-roller-advance 500
 knit - f157 3
+x-speed-number 400
+x-roller-advance 500
 knit - f156 3
+x-speed-number 400
+x-roller-advance 500
 knit - f155 3
+x-speed-number 400
+x-roller-advance 500
 knit - f154 3
+x-speed-number 400
+x-roller-advance 500
 knit - f153 3
+x-speed-number 400
+x-roller-advance 500
 knit - f152 3
+x-speed-number 400
+x-roller-advance 500
 knit - f151 3
+x-speed-number 400
+x-roller-advance 500
 knit - f150 3
+x-speed-number 400
+x-roller-advance 500
 knit - f149 3
+x-speed-number 400
+x-roller-advance 500
 knit - f148 3
+x-speed-number 400
+x-roller-advance 500
 knit - f147 3
+x-speed-number 400
+x-roller-advance 500
 knit - f146 3
+x-speed-number 400
+x-roller-advance 500
 knit - f145 3
+x-speed-number 400
+x-roller-advance 500
 knit - f144 3
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 400
+x-roller-advance 250
 knit + f144 3
+x-speed-number 400
+x-roller-advance 250
 knit + f145 3
+x-speed-number 400
+x-roller-advance 250
 knit + f146 3
+x-speed-number 400
+x-roller-advance 250
 knit + f147 3
+x-speed-number 400
+x-roller-advance 250
 knit + f148 3
+x-speed-number 400
+x-roller-advance 250
 knit + f149 3
+x-speed-number 400
+x-roller-advance 250
 knit + f150 3
+x-speed-number 400
+x-roller-advance 250
 knit + f151 3
+x-speed-number 400
+x-roller-advance 250
 knit + f152 3
+x-speed-number 400
+x-roller-advance 250
 knit + f153 3
+x-speed-number 400
+x-roller-advance 250
 knit + f154 3
+x-speed-number 400
+x-roller-advance 250
 knit + f155 3
+x-speed-number 400
+x-roller-advance 250
 knit + f156 3
+x-speed-number 400
+x-roller-advance 250
 knit + f157 3
+x-speed-number 400
+x-roller-advance 250
 knit + f158 3
+x-speed-number 400
+x-roller-advance 250
 knit + f159 3
+x-speed-number 400
+x-roller-advance 250
 knit + f160 3
+x-speed-number 400
+x-roller-advance 250
 knit + f161 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f31 b31
 xfer f32 b32
@@ -46195,316 +48937,938 @@ xfer b158 f157
 xfer b159 f158
 xfer b160 f159
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f155 3
+x-speed-number 400
+x-roller-advance 500
 knit - f154 3
+x-speed-number 400
+x-roller-advance 500
 knit - f153 3
+x-speed-number 400
+x-roller-advance 500
 knit - f152 3
+x-speed-number 400
+x-roller-advance 500
 knit - f151 3
+x-speed-number 400
+x-roller-advance 500
 knit - f150 3
+x-speed-number 400
+x-roller-advance 500
 knit - f149 3
+x-speed-number 400
+x-roller-advance 500
 knit - f148 3
+x-speed-number 400
+x-roller-advance 500
 knit - f147 3
+x-speed-number 400
+x-roller-advance 500
 knit - f146 3
+x-speed-number 400
+x-roller-advance 500
 knit - f145 3
+x-speed-number 400
+x-roller-advance 500
 knit - f144 3
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 400
+x-roller-advance 250
 knit + f144 3
+x-speed-number 400
+x-roller-advance 250
 knit + f145 3
+x-speed-number 400
+x-roller-advance 250
 knit + f146 3
+x-speed-number 400
+x-roller-advance 250
 knit + f147 3
+x-speed-number 400
+x-roller-advance 250
 knit + f148 3
+x-speed-number 400
+x-roller-advance 250
 knit + f149 3
+x-speed-number 400
+x-roller-advance 250
 knit + f150 3
+x-speed-number 400
+x-roller-advance 250
 knit + f151 3
+x-speed-number 400
+x-roller-advance 250
 knit + f152 3
+x-speed-number 400
+x-roller-advance 250
 knit + f153 3
+x-speed-number 400
+x-roller-advance 250
 knit + f154 3
+x-speed-number 400
+x-roller-advance 250
 knit + f155 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f30 b30
 xfer f31 b31
@@ -47303,304 +50667,902 @@ xfer b152 f151
 xfer b153 f152
 xfer b154 f153
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f149 3
+x-speed-number 400
+x-roller-advance 500
 knit - f148 3
+x-speed-number 400
+x-roller-advance 500
 knit - f147 3
+x-speed-number 400
+x-roller-advance 500
 knit - f146 3
+x-speed-number 400
+x-roller-advance 500
 knit - f145 3
+x-speed-number 400
+x-roller-advance 500
 knit - f144 3
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 400
+x-roller-advance 250
 knit + f144 3
+x-speed-number 400
+x-roller-advance 250
 knit + f145 3
+x-speed-number 400
+x-roller-advance 250
 knit + f146 3
+x-speed-number 400
+x-roller-advance 250
 knit + f147 3
+x-speed-number 400
+x-roller-advance 250
 knit + f148 3
+x-speed-number 400
+x-roller-advance 250
 knit + f149 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f29 b29
 xfer f30 b30
@@ -48369,292 +52331,866 @@ xfer b146 f145
 xfer b147 f146
 xfer b148 f147
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f143 3
+x-speed-number 400
+x-roller-advance 500
 knit - f142 3
+x-speed-number 400
+x-roller-advance 500
 knit - f141 3
+x-speed-number 400
+x-roller-advance 500
 knit - f140 3
+x-speed-number 400
+x-roller-advance 500
 knit - f139 3
+x-speed-number 400
+x-roller-advance 500
 knit - f138 3
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 400
+x-roller-advance 250
 knit + f138 3
+x-speed-number 400
+x-roller-advance 250
 knit + f139 3
+x-speed-number 400
+x-roller-advance 250
 knit + f140 3
+x-speed-number 400
+x-roller-advance 250
 knit + f141 3
+x-speed-number 400
+x-roller-advance 250
 knit + f142 3
+x-speed-number 400
+x-roller-advance 250
 knit + f143 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f28 b28
 xfer f29 b29
@@ -49393,280 +53929,830 @@ xfer b140 f139
 xfer b141 f140
 xfer b142 f141
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f137 3
+x-speed-number 400
+x-roller-advance 500
 knit - f136 3
+x-speed-number 400
+x-roller-advance 500
 knit - f135 3
+x-speed-number 400
+x-roller-advance 500
 knit - f134 3
+x-speed-number 400
+x-roller-advance 500
 knit - f133 3
+x-speed-number 400
+x-roller-advance 500
 knit - f132 3
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 400
+x-roller-advance 250
 knit + f132 3
+x-speed-number 400
+x-roller-advance 250
 knit + f133 3
+x-speed-number 400
+x-roller-advance 250
 knit + f134 3
+x-speed-number 400
+x-roller-advance 250
 knit + f135 3
+x-speed-number 400
+x-roller-advance 250
 knit + f136 3
+x-speed-number 400
+x-roller-advance 250
 knit + f137 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f27 b27
 xfer f28 b28
@@ -50375,268 +55461,794 @@ xfer b134 f133
 xfer b135 f134
 xfer b136 f135
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f131 3
+x-speed-number 400
+x-roller-advance 500
 knit - f130 3
+x-speed-number 400
+x-roller-advance 500
 knit - f129 3
+x-speed-number 400
+x-roller-advance 500
 knit - f128 3
+x-speed-number 400
+x-roller-advance 500
 knit - f127 3
+x-speed-number 400
+x-roller-advance 500
 knit - f126 3
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 400
+x-roller-advance 250
 knit + f126 3
+x-speed-number 400
+x-roller-advance 250
 knit + f127 3
+x-speed-number 400
+x-roller-advance 250
 knit + f128 3
+x-speed-number 400
+x-roller-advance 250
 knit + f129 3
+x-speed-number 400
+x-roller-advance 250
 knit + f130 3
+x-speed-number 400
+x-roller-advance 250
 knit + f131 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f26 b26
 xfer f27 b27
@@ -51315,256 +56927,758 @@ xfer b128 f127
 xfer b129 f128
 xfer b130 f129
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f125 3
+x-speed-number 400
+x-roller-advance 500
 knit - f124 3
+x-speed-number 400
+x-roller-advance 500
 knit - f123 3
+x-speed-number 400
+x-roller-advance 500
 knit - f122 3
+x-speed-number 400
+x-roller-advance 500
 knit - f121 3
+x-speed-number 400
+x-roller-advance 500
 knit - f120 3
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 400
+x-roller-advance 250
 knit + f120 3
+x-speed-number 400
+x-roller-advance 250
 knit + f121 3
+x-speed-number 400
+x-roller-advance 250
 knit + f122 3
+x-speed-number 400
+x-roller-advance 250
 knit + f123 3
+x-speed-number 400
+x-roller-advance 250
 knit + f124 3
+x-speed-number 400
+x-roller-advance 250
 knit + f125 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f25 b25
 xfer f26 b26
@@ -52213,244 +58327,722 @@ xfer b122 f121
 xfer b123 f122
 xfer b124 f123
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f119 3
+x-speed-number 400
+x-roller-advance 500
 knit - f118 3
+x-speed-number 400
+x-roller-advance 500
 knit - f117 3
+x-speed-number 400
+x-roller-advance 500
 knit - f116 3
+x-speed-number 400
+x-roller-advance 500
 knit - f115 3
+x-speed-number 400
+x-roller-advance 500
 knit - f114 3
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 400
+x-roller-advance 250
 knit + f114 3
+x-speed-number 400
+x-roller-advance 250
 knit + f115 3
+x-speed-number 400
+x-roller-advance 250
 knit + f116 3
+x-speed-number 400
+x-roller-advance 250
 knit + f117 3
+x-speed-number 400
+x-roller-advance 250
 knit + f118 3
+x-speed-number 400
+x-roller-advance 250
 knit + f119 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f24 b24
 xfer f25 b25
@@ -53069,232 +59661,686 @@ xfer b116 f115
 xfer b117 f116
 xfer b118 f117
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f113 3
+x-speed-number 400
+x-roller-advance 500
 knit - f112 3
+x-speed-number 400
+x-roller-advance 500
 knit - f111 3
+x-speed-number 400
+x-roller-advance 500
 knit - f110 3
+x-speed-number 400
+x-roller-advance 500
 knit - f109 3
+x-speed-number 400
+x-roller-advance 500
 knit - f108 3
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 400
+x-roller-advance 250
 knit + f108 3
+x-speed-number 400
+x-roller-advance 250
 knit + f109 3
+x-speed-number 400
+x-roller-advance 250
 knit + f110 3
+x-speed-number 400
+x-roller-advance 250
 knit + f111 3
+x-speed-number 400
+x-roller-advance 250
 knit + f112 3
+x-speed-number 400
+x-roller-advance 250
 knit + f113 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f23 b23
 xfer f24 b24
@@ -53883,220 +60929,650 @@ xfer b110 f109
 xfer b111 f110
 xfer b112 f111
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f107 3
+x-speed-number 400
+x-roller-advance 500
 knit - f106 3
+x-speed-number 400
+x-roller-advance 500
 knit - f105 3
+x-speed-number 400
+x-roller-advance 500
 knit - f104 3
+x-speed-number 400
+x-roller-advance 500
 knit - f103 3
+x-speed-number 400
+x-roller-advance 500
 knit - f102 3
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 400
+x-roller-advance 250
 knit + f102 3
+x-speed-number 400
+x-roller-advance 250
 knit + f103 3
+x-speed-number 400
+x-roller-advance 250
 knit + f104 3
+x-speed-number 400
+x-roller-advance 250
 knit + f105 3
+x-speed-number 400
+x-roller-advance 250
 knit + f106 3
+x-speed-number 400
+x-roller-advance 250
 knit + f107 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f22 b22
 xfer f23 b23
@@ -54655,208 +62131,614 @@ xfer b104 f103
 xfer b105 f104
 xfer b106 f105
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f101 3
+x-speed-number 400
+x-roller-advance 500
 knit - f100 3
+x-speed-number 400
+x-roller-advance 500
 knit - f99 3
+x-speed-number 400
+x-roller-advance 500
 knit - f98 3
+x-speed-number 400
+x-roller-advance 500
 knit - f97 3
+x-speed-number 400
+x-roller-advance 500
 knit - f96 3
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 400
+x-roller-advance 250
 knit + f96 3
+x-speed-number 400
+x-roller-advance 250
 knit + f97 3
+x-speed-number 400
+x-roller-advance 250
 knit + f98 3
+x-speed-number 400
+x-roller-advance 250
 knit + f99 3
+x-speed-number 400
+x-roller-advance 250
 knit + f100 3
+x-speed-number 400
+x-roller-advance 250
 knit + f101 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f21 b21
 xfer f22 b22
@@ -55385,196 +63267,578 @@ xfer b98 f97
 xfer b99 f98
 xfer b100 f99
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f95 3
+x-speed-number 400
+x-roller-advance 500
 knit - f94 3
+x-speed-number 400
+x-roller-advance 500
 knit - f93 3
+x-speed-number 400
+x-roller-advance 500
 knit - f92 3
+x-speed-number 400
+x-roller-advance 500
 knit - f91 3
+x-speed-number 400
+x-roller-advance 500
 knit - f90 3
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 400
+x-roller-advance 250
 knit + f90 3
+x-speed-number 400
+x-roller-advance 250
 knit + f91 3
+x-speed-number 400
+x-roller-advance 250
 knit + f92 3
+x-speed-number 400
+x-roller-advance 250
 knit + f93 3
+x-speed-number 400
+x-roller-advance 250
 knit + f94 3
+x-speed-number 400
+x-roller-advance 250
 knit + f95 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f20 b20
 xfer f21 b21
@@ -56073,184 +64337,542 @@ xfer b92 f91
 xfer b93 f92
 xfer b94 f93
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f89 3
+x-speed-number 400
+x-roller-advance 500
 knit - f88 3
+x-speed-number 400
+x-roller-advance 500
 knit - f87 3
+x-speed-number 400
+x-roller-advance 500
 knit - f86 3
+x-speed-number 400
+x-roller-advance 500
 knit - f85 3
+x-speed-number 400
+x-roller-advance 500
 knit - f84 3
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 400
+x-roller-advance 250
 knit + f84 3
+x-speed-number 400
+x-roller-advance 250
 knit + f85 3
+x-speed-number 400
+x-roller-advance 250
 knit + f86 3
+x-speed-number 400
+x-roller-advance 250
 knit + f87 3
+x-speed-number 400
+x-roller-advance 250
 knit + f88 3
+x-speed-number 400
+x-roller-advance 250
 knit + f89 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f19 b19
 xfer f20 b20
@@ -56719,172 +65341,506 @@ xfer b86 f85
 xfer b87 f86
 xfer b88 f87
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f83 3
+x-speed-number 400
+x-roller-advance 500
 knit - f82 3
+x-speed-number 400
+x-roller-advance 500
 knit - f81 3
+x-speed-number 400
+x-roller-advance 500
 knit - f80 3
+x-speed-number 400
+x-roller-advance 500
 knit - f79 3
+x-speed-number 400
+x-roller-advance 500
 knit - f78 3
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 400
+x-roller-advance 250
 knit + f78 3
+x-speed-number 400
+x-roller-advance 250
 knit + f79 3
+x-speed-number 400
+x-roller-advance 250
 knit + f80 3
+x-speed-number 400
+x-roller-advance 250
 knit + f81 3
+x-speed-number 400
+x-roller-advance 250
 knit + f82 3
+x-speed-number 400
+x-roller-advance 250
 knit + f83 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f18 b18
 xfer f19 b19
@@ -57323,160 +66279,470 @@ xfer b80 f79
 xfer b81 f80
 xfer b82 f81
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f77 3
+x-speed-number 400
+x-roller-advance 500
 knit - f76 3
+x-speed-number 400
+x-roller-advance 500
 knit - f75 3
+x-speed-number 400
+x-roller-advance 500
 knit - f74 3
+x-speed-number 400
+x-roller-advance 500
 knit - f73 3
+x-speed-number 400
+x-roller-advance 500
 knit - f72 3
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 400
+x-roller-advance 250
 knit + f72 3
+x-speed-number 400
+x-roller-advance 250
 knit + f73 3
+x-speed-number 400
+x-roller-advance 250
 knit + f74 3
+x-speed-number 400
+x-roller-advance 250
 knit + f75 3
+x-speed-number 400
+x-roller-advance 250
 knit + f76 3
+x-speed-number 400
+x-roller-advance 250
 knit + f77 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f17 b17
 xfer f18 b18
@@ -57885,148 +67151,434 @@ xfer b74 f73
 xfer b75 f74
 xfer b76 f75
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f71 3
+x-speed-number 400
+x-roller-advance 500
 knit - f70 3
+x-speed-number 400
+x-roller-advance 500
 knit - f69 3
+x-speed-number 400
+x-roller-advance 500
 knit - f68 3
+x-speed-number 400
+x-roller-advance 500
 knit - f67 3
+x-speed-number 400
+x-roller-advance 500
 knit - f66 3
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 400
+x-roller-advance 250
 knit + f66 3
+x-speed-number 400
+x-roller-advance 250
 knit + f67 3
+x-speed-number 400
+x-roller-advance 250
 knit + f68 3
+x-speed-number 400
+x-roller-advance 250
 knit + f69 3
+x-speed-number 400
+x-roller-advance 250
 knit + f70 3
+x-speed-number 400
+x-roller-advance 250
 knit + f71 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f16 b16
 xfer f17 b17
@@ -58405,136 +67957,398 @@ xfer b68 f67
 xfer b69 f68
 xfer b70 f69
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f65 3
+x-speed-number 400
+x-roller-advance 500
 knit - f64 3
+x-speed-number 400
+x-roller-advance 500
 knit - f63 3
+x-speed-number 400
+x-roller-advance 500
 knit - f62 3
+x-speed-number 400
+x-roller-advance 500
 knit - f61 3
+x-speed-number 400
+x-roller-advance 500
 knit - f60 3
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 400
+x-roller-advance 250
 knit + f60 3
+x-speed-number 400
+x-roller-advance 250
 knit + f61 3
+x-speed-number 400
+x-roller-advance 250
 knit + f62 3
+x-speed-number 400
+x-roller-advance 250
 knit + f63 3
+x-speed-number 400
+x-roller-advance 250
 knit + f64 3
+x-speed-number 400
+x-roller-advance 250
 knit + f65 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f15 b15
 xfer f16 b16
@@ -58883,124 +68697,362 @@ xfer b62 f61
 xfer b63 f62
 xfer b64 f63
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f59 3
+x-speed-number 400
+x-roller-advance 500
 knit - f58 3
+x-speed-number 400
+x-roller-advance 500
 knit - f57 3
+x-speed-number 400
+x-roller-advance 500
 knit - f56 3
+x-speed-number 400
+x-roller-advance 500
 knit - f55 3
+x-speed-number 400
+x-roller-advance 500
 knit - f54 3
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 400
+x-roller-advance 250
 knit + f54 3
+x-speed-number 400
+x-roller-advance 250
 knit + f55 3
+x-speed-number 400
+x-roller-advance 250
 knit + f56 3
+x-speed-number 400
+x-roller-advance 250
 knit + f57 3
+x-speed-number 400
+x-roller-advance 250
 knit + f58 3
+x-speed-number 400
+x-roller-advance 250
 knit + f59 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f14 b14
 xfer f15 b15
@@ -59319,112 +69371,326 @@ xfer b56 f55
 xfer b57 f56
 xfer b58 f57
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f53 3
+x-speed-number 400
+x-roller-advance 500
 knit - f52 3
+x-speed-number 400
+x-roller-advance 500
 knit - f51 3
+x-speed-number 400
+x-roller-advance 500
 knit - f50 3
+x-speed-number 400
+x-roller-advance 500
 knit - f49 3
+x-speed-number 400
+x-roller-advance 500
 knit - f48 3
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 400
+x-roller-advance 250
 knit + f48 3
+x-speed-number 400
+x-roller-advance 250
 knit + f49 3
+x-speed-number 400
+x-roller-advance 250
 knit + f50 3
+x-speed-number 400
+x-roller-advance 250
 knit + f51 3
+x-speed-number 400
+x-roller-advance 250
 knit + f52 3
+x-speed-number 400
+x-roller-advance 250
 knit + f53 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f13 b13
 xfer f14 b14
@@ -59713,100 +69979,290 @@ xfer b50 f49
 xfer b51 f50
 xfer b52 f51
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f47 3
+x-speed-number 400
+x-roller-advance 500
 knit - f46 3
+x-speed-number 400
+x-roller-advance 500
 knit - f45 3
+x-speed-number 400
+x-roller-advance 500
 knit - f44 3
+x-speed-number 400
+x-roller-advance 500
 knit - f43 3
+x-speed-number 400
+x-roller-advance 500
 knit - f42 3
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 400
+x-roller-advance 250
 knit + f42 3
+x-speed-number 400
+x-roller-advance 250
 knit + f43 3
+x-speed-number 400
+x-roller-advance 250
 knit + f44 3
+x-speed-number 400
+x-roller-advance 250
 knit + f45 3
+x-speed-number 400
+x-roller-advance 250
 knit + f46 3
+x-speed-number 400
+x-roller-advance 250
 knit + f47 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f12 b12
 xfer f13 b13
@@ -60065,88 +70521,254 @@ xfer b44 f43
 xfer b45 f44
 xfer b46 f45
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f41 3
+x-speed-number 400
+x-roller-advance 500
 knit - f40 3
+x-speed-number 400
+x-roller-advance 500
 knit - f39 3
+x-speed-number 400
+x-roller-advance 500
 knit - f38 3
+x-speed-number 400
+x-roller-advance 500
 knit - f37 3
+x-speed-number 400
+x-roller-advance 500
 knit - f36 3
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 400
+x-roller-advance 250
 knit + f36 3
+x-speed-number 400
+x-roller-advance 250
 knit + f37 3
+x-speed-number 400
+x-roller-advance 250
 knit + f38 3
+x-speed-number 400
+x-roller-advance 250
 knit + f39 3
+x-speed-number 400
+x-roller-advance 250
 knit + f40 3
+x-speed-number 400
+x-roller-advance 250
 knit + f41 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f11 b11
 xfer f12 b12
@@ -60375,76 +70997,218 @@ xfer b38 f37
 xfer b39 f38
 xfer b40 f39
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f35 3
+x-speed-number 400
+x-roller-advance 500
 knit - f34 3
+x-speed-number 400
+x-roller-advance 500
 knit - f33 3
+x-speed-number 400
+x-roller-advance 500
 knit - f32 3
+x-speed-number 400
+x-roller-advance 500
 knit - f31 3
+x-speed-number 400
+x-roller-advance 500
 knit - f30 3
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 400
+x-roller-advance 250
 knit + f30 3
+x-speed-number 400
+x-roller-advance 250
 knit + f31 3
+x-speed-number 400
+x-roller-advance 250
 knit + f32 3
+x-speed-number 400
+x-roller-advance 250
 knit + f33 3
+x-speed-number 400
+x-roller-advance 250
 knit + f34 3
+x-speed-number 400
+x-roller-advance 250
 knit + f35 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f10 b10
 xfer f11 b11
@@ -60643,64 +71407,182 @@ xfer b32 f31
 xfer b33 f32
 xfer b34 f33
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f29 3
+x-speed-number 400
+x-roller-advance 500
 knit - f28 3
+x-speed-number 400
+x-roller-advance 500
 knit - f27 3
+x-speed-number 400
+x-roller-advance 500
 knit - f26 3
+x-speed-number 400
+x-roller-advance 500
 knit - f25 3
+x-speed-number 400
+x-roller-advance 500
 knit - f24 3
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 400
+x-roller-advance 250
 knit + f24 3
+x-speed-number 400
+x-roller-advance 250
 knit + f25 3
+x-speed-number 400
+x-roller-advance 250
 knit + f26 3
+x-speed-number 400
+x-roller-advance 250
 knit + f27 3
+x-speed-number 400
+x-roller-advance 250
 knit + f28 3
+x-speed-number 400
+x-roller-advance 250
 knit + f29 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f9 b9
 xfer f10 b10
@@ -60869,52 +71751,146 @@ xfer b26 f25
 xfer b27 f26
 xfer b28 f27
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f23 3
+x-speed-number 400
+x-roller-advance 500
 knit - f22 3
+x-speed-number 400
+x-roller-advance 500
 knit - f21 3
+x-speed-number 400
+x-roller-advance 500
 knit - f20 3
+x-speed-number 400
+x-roller-advance 500
 knit - f19 3
+x-speed-number 400
+x-roller-advance 500
 knit - f18 3
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 400
+x-roller-advance 250
 knit + f18 3
+x-speed-number 400
+x-roller-advance 250
 knit + f19 3
+x-speed-number 400
+x-roller-advance 250
 knit + f20 3
+x-speed-number 400
+x-roller-advance 250
 knit + f21 3
+x-speed-number 400
+x-roller-advance 250
 knit + f22 3
+x-speed-number 400
+x-roller-advance 250
 knit + f23 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f8 b8
 xfer f9 b9
@@ -61053,40 +72029,110 @@ xfer b20 f19
 xfer b21 f20
 xfer b22 f21
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f17 3
+x-speed-number 400
+x-roller-advance 500
 knit - f16 3
+x-speed-number 400
+x-roller-advance 500
 knit - f15 3
+x-speed-number 400
+x-roller-advance 500
 knit - f14 3
+x-speed-number 400
+x-roller-advance 500
 knit - f13 3
+x-speed-number 400
+x-roller-advance 500
 knit - f12 3
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
+x-speed-number 400
+x-roller-advance 250
 knit + f12 3
+x-speed-number 400
+x-roller-advance 250
 knit + f13 3
+x-speed-number 400
+x-roller-advance 250
 knit + f14 3
+x-speed-number 400
+x-roller-advance 250
 knit + f15 3
+x-speed-number 400
+x-roller-advance 250
 knit + f16 3
+x-speed-number 400
+x-roller-advance 250
 knit + f17 3
+x-speed-number 150
+x-roller-advance 0
 rack 0
 xfer f7 b7
 xfer f8 b8
@@ -61195,29 +72241,76 @@ xfer b14 f13
 xfer b15 f14
 xfer b16 f15
 rack 0
+x-speed-number 400
+x-roller-advance 500
 knit - f11 3
+x-speed-number 400
+x-roller-advance 500
 knit - f10 3
+x-speed-number 400
+x-roller-advance 500
 knit - f9 3
+x-speed-number 400
+x-roller-advance 500
 knit - f8 3
+x-speed-number 400
+x-roller-advance 500
 knit - f7 3
+x-speed-number 400
+x-roller-advance 500
 knit - f6 3
+x-speed-number 400
+x-roller-advance 500
 knit - f5 3
+x-speed-number 400
+x-roller-advance 500
 knit - f4 3
+x-speed-number 400
+x-roller-advance 500
 knit - f3 3
+x-speed-number 400
+x-roller-advance 500
 knit - f2 3
+x-speed-number 400
+x-roller-advance 500
 knit - f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f1 3
+x-speed-number 400
+x-roller-advance 250
 knit + f2 3
+x-speed-number 400
+x-roller-advance 250
 knit + f3 3
+x-speed-number 400
+x-roller-advance 250
 knit + f4 3
+x-speed-number 400
+x-roller-advance 250
 knit + f5 3
+x-speed-number 400
+x-roller-advance 250
 knit + f6 3
+x-speed-number 400
+x-roller-advance 250
 knit + f7 3
+x-speed-number 400
+x-roller-advance 250
 knit + f8 3
+x-speed-number 400
+x-roller-advance 250
 knit + f9 3
+x-speed-number 400
+x-roller-advance 250
 knit + f10 3
+x-speed-number 400
+x-roller-advance 250
 knit + f11 3
 ;Shaping complete
+x-speed-number 400
+x-stitch-number 6
+x-roller-advance 450
 knit - f11 1
 knit - f10 1
 knit - f9 1
@@ -61757,6 +72850,17 @@ knit - f4 2
 knit - f3 2
 knit - f2 2
 knit - f1 2
+drop f1
+drop f2
+drop f3
+drop f4
+drop f5
+drop f6
+drop f7
+drop f8
+drop f9
+drop f10
+drop f11
 out 3
 out 1
 out 2

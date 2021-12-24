@@ -14,8 +14,8 @@ k.addHeader('Machine', 'Kniterate');
 k.addHeader('Gauge', '7');
 
 // Machine Setup
-//k.addRawOperation('x-xfer-style four-pass');
-//k.addRawOperation('x-stitch-number 5');
+k.addRawOperation('x-xfer-style four-pass');
+k.addRawOperation('x-stitch-number 5');
 
 // Parameters: 
     // Yarn feeders
@@ -86,7 +86,7 @@ for (let n = minNeedle; n <= maxNeedle; n += 1) {
 }
 
 k.in(ravelCord);
-//k.addRawOperation('x-stitch-number 5');
+k.addRawOperation('x-stitch-number 5');
 for (let r = 1; r <= 1; r += 1) {
     if (r % 2 === 0) {
         for (let n = maxNeedle; n >= minNeedle; n -= 1) {
@@ -101,6 +101,9 @@ for (let r = 1; r <= 1; r += 1) {
 
 k.in(mainColor);
 k.rack(0.25);
+k.addRawOperation('x-speed-number 300');
+k.addRawOperation('x-stitch-number A');
+k.addRawOperation('x-roller-advance 500');
 
 for (let n = maxNeedle; n >= minNeedle; n -= 1) {
     k.knit("-", 'b' + n, mainColor);
@@ -113,8 +116,8 @@ k.comment("Cast on complete");
 
 // Transfer from single bed to 2x2 ribbing
 // Start by slowing down the machine and adjusting the roll amount
-//k.addRawOperation('x-speed-number 100');
-//k.addRawOperation('x-roller-advance 150');
+k.addRawOperation('x-speed-number 100');
+k.addRawOperation('x-roller-advance 150');
 
 for (let n = minNeedle; n <= maxNeedle; n += 4) {
     k.xfer('f'+ n, 'b' + n);
@@ -131,8 +134,8 @@ for (let n = minNeedle; n <= (maxNeedle-3); n += 4) {
 }
 
 // Speed up the process and get back to normal rolling
-//k.addRawOperation('x-speed-number 400');
-//k.addRawOperation('x-roller-advance 500');
+k.addRawOperation('x-speed-number 400');
+k.addRawOperation('x-roller-advance 500');
 
 // knit ribbed band - parameterize this later
 let r = 0;
@@ -156,7 +159,8 @@ for (let r = 1; r <= 100; r +=1) {
 
 
 // Begin process of fully fashioned decreases
-//k.addRawOperation('x-roller-advance 250'); // Adjust roll amount/speed
+k.addRawOperation('x-roller-advance 250'); // Adjust roll amount/speed
+k.addRawOperation('x-speed-number 150');
 for (let n = minNeedle; n <= maxNeedle; n += 4) {
     k.xfer('b' + n, 'f' + n);
     k.xfer('b' + (n + 1), 'f' + (n + 1));
@@ -182,7 +186,8 @@ for (let totalStitchCount = (stitchCount + stitchBuffer); totalStitchCount > (se
     console.log(`Total Stitch Count: ` + totalStitchCount)
     console.log(`Starting Needle: ` + minNeedle);
     console.log(`Ending Needle: ` + maxNeedle);
-
+    k.addRawOperation('x-speed-number 150');
+    k.addRawOperation('x-roller-advance 0');
     for (let cS = 1; cS <= (sectionCount); cS += 1) {
         
         // xfer: Start at buffer needle + 1, go to the end, then increment by the section size
@@ -201,10 +206,14 @@ for (let totalStitchCount = (stitchCount + stitchBuffer); totalStitchCount > (se
     for (let i = 1; i < 3; i += 1) {
         if (i % 2 === 0) {
             for (let n = minNeedle; n <= (maxNeedle - 5); n += 1) {
+                k.addRawOperation('x-speed-number 400');
+                k.addRawOperation('x-roller-advance 250');
                 k.knit('+', 'f' + n, mainColor);
             }
         } else {
             for (let n = (maxNeedle - 5); n >= minNeedle; n -= 1) {
+                k.addRawOperation('x-speed-number 400');
+                k.addRawOperation('x-roller-advance 500');
                 k.knit('-', 'f' + n, mainColor);
             }
         }
@@ -214,6 +223,10 @@ for (let totalStitchCount = (stitchCount + stitchBuffer); totalStitchCount > (se
 }
 maxNeedle = (maxNeedle - 5)
 k.comment("Shaping complete");
+
+k.addRawOperation('x-speed-number 400');
+k.addRawOperation('x-stitch-number 6');
+k.addRawOperation('x-roller-advance 450');
 
 // Begin drop function
 // Ravel cord
@@ -241,45 +254,10 @@ k.comment("Shaping complete");
         }
     }
 
-/*
-
-for (let ts = stitchCount; ts > 6; ts -= 6) {
-    console.log(`Current ts: ` + ts);
-    shapeMinNeedle = (stitchBuffer + 1);
-    sectionSize = (sectionSize - 1);
-    for (let section = 0; section <= sectionCount; section += 1) {
-        console.log(`Current section: ` + section);
-        console.log(`Min Needle: ` + shapeMinNeedle + ` Max Needle: ` + shapeMaxNeedle);
-        
-        for (let n = shapeMinNeedle; n <= shapeMaxNeedle; n += 1) {
-            k.xfer('f' + n, 'b' + n);
-        }
-        k.rack(-1);
-        for (let n = shapeMinNeedle; n <= shapeMaxNeedle; n += 1) {
-            k.xfer('b' + n, 'f' + (n - 1));
-        }
-        k.rack(0);
-        
-        shapeMinNeedle = (shapeMinNeedle + sectionSize);
-        shapeMaxNeedle = (shapeMaxNeedle - 1);
-        newCount = (newCount - 1);
-    }
-    
-    newCount = (newCount + 4);
-    console.log(`Max Needle: ` + newCount);
-    for (let i = 1; i < 3; i += 1) {
-        if (i % 2 === 0) {
-            for (let n = minNeedle; n <= newCount; n += 1) {
-                k.knit('+', 'f' + n, mainColor);
-            }
-        } else {
-            for (let n = newCount; n >= minNeedle; n -= 1) {
-                k.knit('-', 'f' + n, mainColor);
-            }
-        }
-    }
+for (let n = minNeedle; n <= maxNeedle; n += 1) {
+    k.drop('f' + n);
 }
-*/
+
 k.out(mainColor);
 k.out(ravelCord);
 k.out(wasteYarn);
