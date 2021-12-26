@@ -4,7 +4,7 @@
 ;;Gauge: 7
 x-xfer-style four-pass
 x-stitch-number 5
-x-speed-number 400
+x-speed-number 500
 x-stitch-number 5
 x-roller-advance 400
 in 2
@@ -20988,9 +20988,195 @@ knit + f181 1
 knit + f182 1
 knit + f183 1
 knit + f184 1
+knit - f184 1
+knit - f183 1
+knit - f182 1
+knit - f181 1
+knit - f180 1
+knit - f179 1
+knit - f178 1
+knit - f177 1
+knit - f176 1
+knit - f175 1
+knit - f174 1
+knit - f173 1
+knit - f172 1
+knit - f171 1
+knit - f170 1
+knit - f169 1
+knit - f168 1
+knit - f167 1
+knit - f166 1
+knit - f165 1
+knit - f164 1
+knit - f163 1
+knit - f162 1
+knit - f161 1
+knit - f160 1
+knit - f159 1
+knit - f158 1
+knit - f157 1
+knit - f156 1
+knit - f155 1
+knit - f154 1
+knit - f153 1
+knit - f152 1
+knit - f151 1
+knit - f150 1
+knit - f149 1
+knit - f148 1
+knit - f147 1
+knit - f146 1
+knit - f145 1
+knit - f144 1
+knit - f143 1
+knit - f142 1
+knit - f141 1
+knit - f140 1
+knit - f139 1
+knit - f138 1
+knit - f137 1
+knit - f136 1
+knit - f135 1
+knit - f134 1
+knit - f133 1
+knit - f132 1
+knit - f131 1
+knit - f130 1
+knit - f129 1
+knit - f128 1
+knit - f127 1
+knit - f126 1
+knit - f125 1
+knit - f124 1
+knit - f123 1
+knit - f122 1
+knit - f121 1
+knit - f120 1
+knit - f119 1
+knit - f118 1
+knit - f117 1
+knit - f116 1
+knit - f115 1
+knit - f114 1
+knit - f113 1
+knit - f112 1
+knit - f111 1
+knit - f110 1
+knit - f109 1
+knit - f108 1
+knit - f107 1
+knit - f106 1
+knit - f105 1
+knit - f104 1
+knit - f103 1
+knit - f102 1
+knit - f101 1
+knit - f100 1
+knit - f99 1
+knit - f98 1
+knit - f97 1
+knit - f96 1
+knit - f95 1
+knit - f94 1
+knit - f93 1
+knit - f92 1
+knit - f91 1
+knit - f90 1
+knit - f89 1
+knit - f88 1
+knit - f87 1
+knit - f86 1
+knit - f85 1
+knit - f84 1
+knit - f83 1
+knit - f82 1
+knit - f81 1
+knit - f80 1
+knit - f79 1
+knit - f78 1
+knit - f77 1
+knit - f76 1
+knit - f75 1
+knit - f74 1
+knit - f73 1
+knit - f72 1
+knit - f71 1
+knit - f70 1
+knit - f69 1
+knit - f68 1
+knit - f67 1
+knit - f66 1
+knit - f65 1
+knit - f64 1
+knit - f63 1
+knit - f62 1
+knit - f61 1
+knit - f60 1
+knit - f59 1
+knit - f58 1
+knit - f57 1
+knit - f56 1
+knit - f55 1
+knit - f54 1
+knit - f53 1
+knit - f52 1
+knit - f51 1
+knit - f50 1
+knit - f49 1
+knit - f48 1
+knit - f47 1
+knit - f46 1
+knit - f45 1
+knit - f44 1
+knit - f43 1
+knit - f42 1
+knit - f41 1
+knit - f40 1
+knit - f39 1
+knit - f38 1
+knit - f37 1
+knit - f36 1
+knit - f35 1
+knit - f34 1
+knit - f33 1
+knit - f32 1
+knit - f31 1
+knit - f30 1
+knit - f29 1
+knit - f28 1
+knit - f27 1
+knit - f26 1
+knit - f25 1
+knit - f24 1
+knit - f23 1
+knit - f22 1
+knit - f21 1
+knit - f20 1
+knit - f19 1
+knit - f18 1
+knit - f17 1
+knit - f16 1
+knit - f15 1
+knit - f14 1
+knit - f13 1
+knit - f12 1
+knit - f11 1
+knit - f10 1
+knit - f9 1
+knit - f8 1
+knit - f7 1
+knit - f6 1
+knit - f5 1
+knit - f4 1
+knit - f3 1
+knit - f2 1
+knit - f1 1
+;Waste complete
+pause
 rack 0.25
 x-speed-number 100
-x-stitch-number A
+x-stitch-number 9
 x-roller-advance 500
 knit - f184 3
 knit - f183 3
@@ -21546,6 +21732,7 @@ knit - f2 3
 knit - f1 3
 rack 0
 ;Cast on complete
+pause
 x-speed-number 100
 x-roller-advance 150
 xfer f1 b1
@@ -21916,7 +22103,7 @@ knit + b181 3
 knit + b182 3
 knit + f183 3
 knit + f184 3
-x-speed-number 400
+x-speed-number 500
 x-roller-advance 500
 knit - f184 3
 knit - f183 3
@@ -73029,6 +73216,7 @@ x-speed-number 400
 x-roller-advance 250
 knit + f11 3
 ;Shaping complete
+pause
 x-speed-number 400
 x-stitch-number 6
 x-roller-advance 450

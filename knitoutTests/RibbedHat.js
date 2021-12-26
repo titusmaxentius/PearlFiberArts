@@ -34,7 +34,7 @@ k.addRawOperation('x-stitch-number 5');
     let stitchBuffer = 4;
     let sectionSize = (maxNeedle - stitchBuffer) / sectionCount;
 
-    k.addRawOperation('x-speed-number 400');
+    k.addRawOperation('x-speed-number 500');
     k.addRawOperation('x-stitch-number 5');
     k.addRawOperation('x-roller-advance 400');
 
@@ -95,9 +95,8 @@ for (let n = minNeedle; n <= maxNeedle; n += 1) {
 
 k.addRawOperation('x-carrier-spacing 4');
 k.addRawOperation('x-carrier-stopping-distance 8.5');
-
 k.addRawOperation('x-stitch-number 5');
-for (let r = 1; r < 2; r += 1) {
+for (let r = 1; r < 3; r += 1) {
     if (r % 2 === 0) {
         for (let n = maxNeedle; n >= minNeedle; n -= 1) {
             k.knit("-", 'f' + n, ravelCord);
@@ -109,9 +108,10 @@ for (let r = 1; r < 2; r += 1) {
     }
 }
 
+k.pause('Waste complete');
 k.rack(0.25);
 k.addRawOperation('x-speed-number 100');
-k.addRawOperation('x-stitch-number A');
+k.addRawOperation('x-stitch-number 9');
 k.addRawOperation('x-roller-advance 500');
 
 for (let r = 0; r <= 2; r +=1) {
@@ -128,7 +128,7 @@ for (let r = 0; r <= 2; r +=1) {
 
 k.rack(0);
 
-k.comment("Cast on complete");
+k.pause("Cast on complete");
 
 // Transfer from single bed to 2x2 ribbing
 // Start by slowing down the machine and adjusting the roll amount
@@ -150,7 +150,7 @@ for (let n = minNeedle; n <= (maxNeedle-3); n += 4) {
 }
 
 // Speed up the process and get back to normal rolling
-k.addRawOperation('x-speed-number 400');
+k.addRawOperation('x-speed-number 500');
 k.addRawOperation('x-roller-advance 500');
 
 // knit ribbed band - parameterize this later
@@ -238,7 +238,7 @@ for (let totalStitchCount = (stitchCount + stitchBuffer); totalStitchCount > (se
     sectionSize -= 1;
 }
 maxNeedle = (maxNeedle - 5)
-k.comment("Shaping complete");
+k.pause("Shaping complete");
 
 k.addRawOperation('x-speed-number 400');
 k.addRawOperation('x-stitch-number 6');
