@@ -17,7 +17,6 @@ let maxNeedle = 0;
 function buildWasterYarn(rows, stitches, yarnCarrier) {
     for(let r = 0; r <= rows; r +=1) {
         for (let n = minNeedle; n <= stitches; n += 1) {
-        
             knitSection = k.knit('+', 'f' + n, yarnCarrier);
         }
     }
