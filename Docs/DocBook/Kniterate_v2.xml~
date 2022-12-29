@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="5.1" xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xila="http://www.w3.org/2001/XInclude/local-attributes"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:trans="http://docbook.org/ns/transclusion"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:m="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info>
+    <title>Kniterate: The Missing Manual</title>
+
+    <author>
+      <personname><firstname>Robert</firstname><surname>Warner</surname></personname>
+
+      <affiliation>
+        <orgname>Dalke Warner Designs</orgname>
+      </affiliation>
+    </author>
+
+    <pubdate>December 27, 2022</pubdate>
+  </info>
+
+  <chapter>
+    <title>Concepts, Conventions, and Purpose of this document</title>
+
+    <section>
+      <title>Introduction, or, Why Are We Here?</title>
+
+      <para>Haven't we all asked that, at one point or another? Chances are,
+      if you're reading this book, you are either interested in buying a
+      Kniterate machine, or, quite possibly, you've already purchased one, and
+      realized that the documentation provided with the machine is...lacking,
+      at best. Let's see if we can help fill some of those gaps. </para>
+
+      <para/>
+    </section>
+  </chapter>
+
+  <chapter>
+    <title>What Stitches Can the Machine Create? </title>
+
+    <para/>
+  </chapter>
+</book>
