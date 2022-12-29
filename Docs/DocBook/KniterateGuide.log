@@ -1,0 +1,1683 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdftex 2021.9.14)  14 SEP 2021 15:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**KniterateGuide.tex
+(./KniterateGuide.tex
+! Undefined control sequence.
+l.1 \FOT
+        {3}\Seq%
+? 
+! Undefined control sequence.
+l.1 \FOT{3}\Seq
+               %
+? 
+! Undefined control sequence.
+l.21 {48\p@}}\Node
+                  %
+? 
+! Undefined control sequence.
+l.22 {}\Node
+            %
+? 
+! Undefined control sequence.
+l.24 {0}}\Seq
+             %
+? 
+! Undefined control sequence.
+l.25 {}\SpS
+           %
+? 
+! Undefined control sequence.
+l.34 \SpSOtherBackLeftFooter
+                            %
+? 
+! Undefined control sequence.
+l.36 \SpSOtherBackLeftHeader
+                            %
+? 
+! Undefined control sequence.
+l.38 \SpSOtherBackCenterFooter
+                              %
+? 
+! Undefined control sequence.
+l.40 \SpSOtherBackCenterHeader
+                              %
+? 
+! Undefined control sequence.
+l.42 \SpSOtherBackRightFooter
+                             %
+? 
+! Undefined control sequence.
+l.44 \SpSOtherBackRightHeader
+                             %
+? 
+! Undefined control sequence.
+l.46 \SpSFirstBackLeftFooter
+                            %
+? 
+! Undefined control sequence.
+l.48 \SpSFirstBackLeftHeader
+                            %
+? 
+! Undefined control sequence.
+l.50 \SpSFirstBackCenterFooter
+                              %
+? 
+! Undefined control sequence.
+l.52 \SpSFirstBackCenterHeader
+                              %
+? 
+! Undefined control sequence.
+l.54 \SpSFirstBackRightFooter
+                             %
+? 
+! Undefined control sequence.
+l.56 \SpSFirstBackRightHeader
+                             %
+? 
+! Undefined control sequence.
+l.58 \SpSOtherFrontLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.60 \SpSOtherFrontLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.62 \SpSOtherFrontCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.64 \SpSOtherFrontCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.66 \SpSOtherFrontRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.68 \SpSOtherFrontRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.70 \SpSFirstFrontLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.72 \SpSFirstFrontLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.74 \SpSFirstFrontCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.76 \SpSFirstFrontCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.78 \SpSFirstFrontRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.80 \SpSFirstFrontRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.81 {}\Seq
+           %
+? 
+! Undefined control sequence.
+l.82 {}\Par
+           %
+? 
+! Undefined control sequence.
+l.85 {0}}\endPar
+                {}\endSeq{}\DisplayGroup%
+? 
+! Undefined control sequence.
+l.85 {0}}\endPar{}\endSeq
+                         {}\DisplayGroup%
+? 
+! Undefined control sequence.
+l.85 {0}}\endPar{}\endSeq{}\DisplayGroup
+                                        %
+? 
+! Undefined control sequence.
+l.87 {page}}\Seq
+                %
+? 
+! Undefined control sequence.
+l.88 {}\Par
+           %
+? 
+! Undefined control sequence.
+l.91 {0}}\endPar
+                {}\endSeq{}\endDisplayGroup{}\endSpS{}\SpS%
+? 
+! Undefined control sequence.
+l.91 {0}}\endPar{}\endSeq
+                         {}\endDisplayGroup{}\endSpS{}\SpS%
+? 
+! Undefined control sequence.
+l.91 {0}}\endPar{}\endSeq{}\endDisplayGroup
+                                           {}\endSpS{}\SpS%
+? 
+! Undefined control sequence.
+l.91 ...endPar{}\endSeq{}\endDisplayGroup{}\endSpS
+                                                  {}\SpS%
+? 
+! Undefined control sequence.
+l.91 ...{}\endSeq{}\endDisplayGroup{}\endSpS{}\SpS
+                                                  %
+? 
+! Undefined control sequence.
+l.101 \SpSOtherBackLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.102 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.104 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.105 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.106 \SpSOtherBackLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.108 \SpSOtherBackCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.110 \SpSOtherBackCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.112 \SpSOtherBackRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.114 \SpSOtherBackRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.116 \SpSFirstBackLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.118 \SpSFirstBackLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.120 \SpSFirstBackCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.122 \SpSFirstBackCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.124 \SpSFirstBackRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.125 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.127 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.128 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.129 \SpSFirstBackRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.131 \SpSOtherFrontLeftFooter
+                              %
+? 
+! Undefined control sequence.
+l.133 \SpSOtherFrontLeftHeader
+                              %
+? 
+! Undefined control sequence.
+l.135 \SpSOtherFrontCenterFooter
+                                %
+? 
+! Undefined control sequence.
+l.137 \SpSOtherFrontCenterHeader
+                                %
+? 
+! Undefined control sequence.
+l.139 \SpSOtherFrontRightFooter
+                               %
+? 
+! Undefined control sequence.
+l.140 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.142 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.143 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.144 \SpSOtherFrontRightHeader
+                               %
+? 
+! Undefined control sequence.
+l.146 \SpSFirstFrontLeftFooter
+                              %
+? 
+! Undefined control sequence.
+l.148 \SpSFirstFrontLeftHeader
+                              %
+? 
+! Undefined control sequence.
+l.150 \SpSFirstFrontCenterFooter
+                                %
+? 
+! Undefined control sequence.
+l.152 \SpSFirstFrontCenterHeader
+                                %
+? 
+! Undefined control sequence.
+l.154 \SpSFirstFrontRightFooter
+                               %
+? 
+! Undefined control sequence.
+l.155 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.157 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.158 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.159 \SpSFirstFrontRightHeader
+                               %
+? 
+! Undefined control sequence.
+l.160 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.161 {}\HeadPar
+                %
+? 
+! Undefined control sequence.
+l.183 \endHeadPar
+                 {}\Par%
+? 
+! Undefined control sequence.
+l.183 \endHeadPar{}\Par
+                       %
+? 
+! Undefined control sequence.
+l.199 {1}}\Link
+               %
+? 
+! Undefined control sequence.
+l.201 {10}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.202 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.203 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.204 {}1\endSeq
+                {}. \endSeq{}\Node%
+? 
+! Undefined control sequence.
+l.204 {}1\endSeq{}. \endSeq
+                           {}\Node%
+? 
+! Undefined control sequence.
+l.204 {}1\endSeq{}. \endSeq{}\Node
+                                  %
+? 
+! Undefined control sequence.
+l.207 {title-sosofo-mode}}Introduction\endNode
+                                              {}\endSeq{}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.207 ...osofo-mode}}Introduction\endNode{}\endSeq
+                                                  {}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.207 ...}}Introduction\endNode{}\endSeq{}\endLink
+                                                  {}\Seq%
+? 
+! Undefined control sequence.
+l.207 ...oduction\endNode{}\endSeq{}\endLink{}\Seq
+                                                  %
+? 
+! Undefined control sequence.
+l.208 {}\Leader
+               %
+? 
+! Undefined control sequence.
+l.209 {}.\endLeader
+                   {}\Link%
+? 
+! Undefined control sequence.
+l.209 {}.\endLeader{}\Link
+                          %
+? 
+! Undefined control sequence.
+l.211 {10}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.212 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.215 ...number-mode}}\insertCurrentNodePageNumber
+                                                  %
+? 
+! Undefined control sequence.
+l.217 {10}}\endNode
+                   {}\endSeq{}\endLink{}\endSeq{}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.217 {10}}\endNode{}\endSeq
+                            {}\endLink{}\endSeq{}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.217 {10}}\endNode{}\endSeq{}\endLink
+                                      {}\endSeq{}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.217 {10}}\endNode{}\endSeq{}\endLink{}\endSeq
+                                               {}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.217 ...Node{}\endSeq{}\endLink{}\endSeq{}\endPar
+                                                  {}\Seq%
+? 
+! Undefined control sequence.
+l.217 ...\endSeq{}\endLink{}\endSeq{}\endPar{}\Seq
+                                                  %
+? 
+! Undefined control sequence.
+l.218 {}\Par
+            %
+? 
+! Undefined control sequence.
+l.225 {start}}\Link
+                   %
+? 
+! Undefined control sequence.
+l.227 {12}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.228 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.231 {title-sosofo-mode}}Who is this for?\endNode
+                                                  {}\endSeq{}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.231 ...o-mode}}Who is this for?\endNode{}\endSeq
+                                                  {}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.231 ...o is this for?\endNode{}\endSeq{}\endLink
+                                                  {}\Seq%
+? 
+! Undefined control sequence.
+l.231 ...his for?\endNode{}\endSeq{}\endLink{}\Seq
+                                                  %
+? 
+! Undefined control sequence.
+l.232 {}\Leader
+               %
+? 
+! Undefined control sequence.
+l.233 {}.\endLeader
+                   {}\Link%
+? 
+! Undefined control sequence.
+l.233 {}.\endLeader{}\Link
+                          %
+? 
+! Undefined control sequence.
+l.235 {12}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.236 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.239 ...number-mode}}\insertCurrentNodePageNumber
+                                                  %
+? 
+! Undefined control sequence.
+l.241 {12}}\endNode
+                   {}\endSeq{}\endLink{}\endSeq{}\endPar{}\endSeq{}\Par%
+? 
+! Undefined control sequence.
+l.241 {12}}\endNode{}\endSeq
+                            {}\endLink{}\endSeq{}\endPar{}\endSeq{}\Par%
+? 
+! Undefined control sequence.
+l.241 {12}}\endNode{}\endSeq{}\endLink
+                                      {}\endSeq{}\endPar{}\endSeq{}\Par%
+? 
+! Undefined control sequence.
+l.241 {12}}\endNode{}\endSeq{}\endLink{}\endSeq
+                                               {}\endPar{}\endSeq{}\Par%
+? 
+! Undefined control sequence.
+l.241 ...Node{}\endSeq{}\endLink{}\endSeq{}\endPar
+                                                  {}\endSeq{}\Par%
+? 
+! Undefined control sequence.
+l.241 ...dSeq{}\endLink{}\endSeq{}\endPar{}\endSeq
+                                                  {}\Par%
+? 
+! Undefined control sequence.
+l.241 ...\endLink{}\endSeq{}\endPar{}\endSeq{}\Par
+                                                  %
+? 
+! Undefined control sequence.
+l.257 {1}}\Link
+               %
+? 
+! Undefined control sequence.
+l.259 {23}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.260 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.261 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.262 {}2\endSeq
+                {}. \endSeq{}\Node%
+? 
+! Undefined control sequence.
+l.262 {}2\endSeq{}. \endSeq
+                           {}\Node%
+? 
+! Undefined control sequence.
+l.262 {}2\endSeq{}. \endSeq{}\Node
+                                  %
+? 
+! Undefined control sequence.
+l.265 ...ofo-mode}}Kniterate Design Studio\endNode
+                                                  {}\endSeq{}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.265 ...}Kniterate Design Studio\endNode{}\endSeq
+                                                  {}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.265 ... Design Studio\endNode{}\endSeq{}\endLink
+                                                  {}\Seq%
+? 
+! Undefined control sequence.
+l.265 ...n Studio\endNode{}\endSeq{}\endLink{}\Seq
+                                                  %
+? 
+! Undefined control sequence.
+l.266 {}\Leader
+               %
+? 
+! Undefined control sequence.
+l.267 {}.\endLeader
+                   {}\Link%
+? 
+! Undefined control sequence.
+l.267 {}.\endLeader{}\Link
+                          %
+? 
+! Undefined control sequence.
+l.269 {23}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.270 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.273 ...number-mode}}\insertCurrentNodePageNumber
+                                                  %
+? 
+! Undefined control sequence.
+l.275 {23}}\endNode
+                   {}\endSeq{}\endLink{}\endSeq{}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.275 {23}}\endNode{}\endSeq
+                            {}\endLink{}\endSeq{}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.275 {23}}\endNode{}\endSeq{}\endLink
+                                      {}\endSeq{}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.275 {23}}\endNode{}\endSeq{}\endLink{}\endSeq
+                                               {}\endPar{}\Seq%
+? 
+! Undefined control sequence.
+l.275 ...Node{}\endSeq{}\endLink{}\endSeq{}\endPar
+                                                  {}\Seq%
+? 
+! Undefined control sequence.
+l.275 ...\endSeq{}\endLink{}\endSeq{}\endPar{}\Seq
+                                                  %
+? 
+! Undefined control sequence.
+l.276 {}\Par
+            %
+? 
+! Undefined control sequence.
+l.283 {start}}\Link
+                   %
+? 
+! Undefined control sequence.
+l.285 {25}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.286 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.289 ...ng Started with the Design Studio\endNode
+                                                  {}\endSeq{}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.289 ...d with the Design Studio\endNode{}\endSeq
+                                                  {}\endLink{}\Seq%
+? 
+! Undefined control sequence.
+l.289 ... Design Studio\endNode{}\endSeq{}\endLink
+                                                  {}\Seq%
+? 
+! Undefined control sequence.
+l.289 ...n Studio\endNode{}\endSeq{}\endLink{}\Seq
+                                                  %
+? 
+! Undefined control sequence.
+l.290 {}\Leader
+               %
+? 
+! Undefined control sequence.
+l.291 {}.\endLeader
+                   {}\Link%
+? 
+! Undefined control sequence.
+l.291 {}.\endLeader{}\Link
+                          %
+? 
+! Undefined control sequence.
+l.293 {25}}\Seq
+               %
+? 
+! Undefined control sequence.
+l.294 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.297 ...number-mode}}\insertCurrentNodePageNumber
+                                                  %
+? 
+! Undefined control sequence.
+l.299 {25}}\endNode
+                   {}\endSeq{}\endLink{}\endSeq{}\endPar{}\endSeq{}\endSeq{}...
+
+? 
+! Undefined control sequence.
+l.299 {25}}\endNode{}\endSeq
+                            {}\endLink{}\endSeq{}\endPar{}\endSeq{}\endSeq{}...
+
+? 
+! Undefined control sequence.
+l.299 {25}}\endNode{}\endSeq{}\endLink
+                                      {}\endSeq{}\endPar{}\endSeq{}\endSeq{}...
+
+? 
+! Undefined control sequence.
+l.299 {25}}\endNode{}\endSeq{}\endLink{}\endSeq
+                                               {}\endPar{}\endSeq{}\endSeq{}...
+
+? 
+! Undefined control sequence.
+l.299 ...Node{}\endSeq{}\endLink{}\endSeq{}\endPar
+                                                  {}\endSeq{}\endSeq{}\endSp...
+
+? 
+! Undefined control sequence.
+l.299 ...dSeq{}\endLink{}\endSeq{}\endPar{}\endSeq
+                                                  {}\endSeq{}\endSpS{}	\Node%
+? 
+! Undefined control sequence.
+l.299 ...dLink{}\endSeq{}\endPar{}\endSeq{}\endSeq
+                                                  {}\endSpS{}	\Node%
+? 
+! Undefined control sequence.
+l.299 ...ndSeq{}\endPar{}\endSeq{}\endSeq{}\endSpS
+                                                  {}	\Node%
+? 
+! Undefined control sequence.
+l.299 ...endPar{}\endSeq{}\endSeq{}\endSpS{}	\Node
+                                                  %
+? 
+! Undefined control sequence.
+l.301 {1}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.305 {0}}		\Node
+                 %
+? 
+! Undefined control sequence.
+l.307 {2}}\HeadPar
+                  %
+? 
+! Undefined control sequence.
+l.327 \endHeadPar
+                 {}\endNode{}
+? 
+! Undefined control sequence.
+l.327 \endHeadPar{}\endNode
+                           {}
+? 
+! Undefined control sequence.
+l.328 		\Node
+             %
+? 
+! Undefined control sequence.
+l.330 {3}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.331 {}Robert Warner\endSeq
+                            {}\endNode{}
+? 
+! Undefined control sequence.
+l.331 {}Robert Warner\endSeq{}\endNode
+                                      {}
+? 
+! Undefined control sequence.
+l.332 		\Node
+             %
+? 
+! Undefined control sequence.
+l.334 {9}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.336 	\endSeq
+              {}\endNode{}\endSeq{}\endNode{}
+? 
+! Undefined control sequence.
+l.336 	\endSeq{}\endNode
+                        {}\endSeq{}\endNode{}
+? 
+! Undefined control sequence.
+l.336 	\endSeq{}\endNode{}\endSeq
+                                 {}\endNode{}
+? 
+! Undefined control sequence.
+l.336 	\endSeq{}\endNode{}\endSeq{}\endNode
+                                           {}
+? 
+! Undefined control sequence.
+l.337 	\Node
+            %
+? 
+! Undefined control sequence.
+l.339 {10}}\SpS
+               %
+? 
+! Undefined control sequence.
+l.353 \SpSOtherBackLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.354 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.356 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.357 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.358 \SpSOtherBackLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.359 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.361 {italic}}\Node
+                    %
+? 
+! Undefined control sequence.
+l.364 {hf-mode}}\Seq
+                    %
+? 
+! Undefined control sequence.
+l.365 {}Chapter 1. Introduction\endSeq
+                                      {}\endNode{}\endSeq{}}
+? 
+! Undefined control sequence.
+l.365 {}Chapter 1. Introduction\endSeq{}\endNode
+                                                {}\endSeq{}}
+? 
+! Undefined control sequence.
+l.365 ...1. Introduction\endSeq{}\endNode{}\endSeq
+                                                  {}}
+? 
+! Undefined control sequence.
+l.366 \SpSOtherBackCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.368 \SpSOtherBackCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.370 \SpSOtherBackRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.372 \SpSOtherBackRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.374 \SpSFirstBackLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.376 \SpSFirstBackLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.378 \SpSFirstBackCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.380 \SpSFirstBackCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.382 \SpSFirstBackRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.383 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.385 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.386 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.387 \SpSFirstBackRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.389 \SpSOtherFrontLeftFooter
+                              %
+? 
+! Undefined control sequence.
+l.391 \SpSOtherFrontLeftHeader
+                              %
+? 
+! Undefined control sequence.
+l.393 \SpSOtherFrontCenterFooter
+                                %
+? 
+! Undefined control sequence.
+l.395 \SpSOtherFrontCenterHeader
+                                %
+? 
+! Undefined control sequence.
+l.397 \SpSOtherFrontRightFooter
+                               %
+? 
+! Undefined control sequence.
+l.398 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.400 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.401 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.402 \SpSOtherFrontRightHeader
+                               %
+? 
+! Undefined control sequence.
+l.403 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.405 {italic}}\Node
+                    %
+? 
+! Undefined control sequence.
+l.408 {hf-mode}}\Seq
+                    %
+? 
+! Undefined control sequence.
+l.409 {}Chapter 1. Introduction\endSeq
+                                      {}\endNode{}\endSeq{}}
+? 
+! Undefined control sequence.
+l.409 {}Chapter 1. Introduction\endSeq{}\endNode
+                                                {}\endSeq{}}
+? 
+! Undefined control sequence.
+l.409 ...1. Introduction\endSeq{}\endNode{}\endSeq
+                                                  {}}
+? 
+! Undefined control sequence.
+l.410 \SpSFirstFrontLeftFooter
+                              %
+? 
+! Undefined control sequence.
+l.412 \SpSFirstFrontLeftHeader
+                              %
+? 
+! Undefined control sequence.
+l.414 \SpSFirstFrontCenterFooter
+                                %
+? 
+! Undefined control sequence.
+l.416 \SpSFirstFrontCenterHeader
+                                %
+? 
+! Undefined control sequence.
+l.418 \SpSFirstFrontRightFooter
+                               %
+? 
+! Undefined control sequence.
+l.419 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.421 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.422 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.423 \SpSFirstFrontRightHeader
+                               %
+? 
+! Undefined control sequence.
+l.424 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.425 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.426 {}\HeadPar
+                %
+? 
+! Undefined control sequence.
+l.442 {1}}Chapter 1. \Seq
+                         %
+? 
+! Undefined control sequence.
+l.443 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.446 {component-title-mode}}Introduction\endNode
+                                                 {}\endSeq{}\def\HeadingText{%
+? 
+! Undefined control sequence.
+l.446 ...title-mode}}Introduction\endNode{}\endSeq
+                                                  {}\def\HeadingText{%
+? 
+! Undefined control sequence.
+l.448 \endHeadPar
+                 {}\Par%
+? 
+! Undefined control sequence.
+l.448 \endHeadPar{}\Par
+                       %
+? 
+! Undefined control sequence.
+l.468 {1}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.469 {}\endSeq
+               {}\endPar{}\endSeq{}		\Node%
+? 
+! Undefined control sequence.
+l.469 {}\endSeq{}\endPar
+                        {}\endSeq{}		\Node%
+? 
+! Undefined control sequence.
+l.469 {}\endSeq{}\endPar{}\endSeq
+                                 {}		\Node%
+? 
+! Undefined control sequence.
+l.469 {}\endSeq{}\endPar{}\endSeq{}		\Node
+                                          %
+? 
+! Undefined control sequence.
+l.471 {11}}\endNode
+                   {}
+? 
+! Undefined control sequence.
+l.472 		\Node
+             %
+? 
+! Undefined control sequence.
+l.474 {12}}\DisplayGroup
+                        %
+? 
+! Undefined control sequence.
+l.485 {1}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.486 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.487 {}\HeadPar
+                %
+? 
+! Undefined control sequence.
+l.508 {1}}\Node
+               %
+? 
+! Undefined control sequence.
+l.511 {title-sosofo-mode}}Who is this for?\endNode
+                                                  {}\def\HeadingText{%
+? 
+! Undefined control sequence.
+l.513 \endHeadPar
+                 {}\endSeq{}			\Node%
+? 
+! Undefined control sequence.
+l.513 \endHeadPar{}\endSeq
+                          {}			\Node%
+? 
+! Undefined control sequence.
+l.513 \endHeadPar{}\endSeq{}			\Node
+                                    %
+? 
+! Undefined control sequence.
+l.515 {13}}\endNode
+                   {}
+? 
+! Undefined control sequence.
+l.516 			\Node
+              %
+? 
+! Undefined control sequence.
+l.518 {14}}\DisplayGroup
+                        %
+? 
+! Undefined control sequence.
+l.525 {1}}				\Node
+                   %
+? 
+! Undefined control sequence.
+l.527 {15}}					\Node
+                     %
+? 
+! Undefined control sequence.
+l.529 {16}}\Par
+               %
+? 
+! Undefined control sequence.
+l.542 					make it do anything is daunting\endPar
+                                                 {}\endNode{}
+? 
+! Undefined control sequence.
+l.542 ... do anything is daunting\endPar{}\endNode
+                                                  {}
+? 
+! Undefined control sequence.
+l.543 				\endNode
+                  {}
+? 
+! Undefined control sequence.
+l.544 				\Node
+               %
+? 
+! Undefined control sequence.
+l.546 {17}}					\Node
+                     %
+? 
+! Undefined control sequence.
+l.548 {18}}\Par
+               %
+? 
+! Undefined control sequence.
+l.559 ...	potentially buy one for yourself.\endPar
+                                                  {}\endNode{}
+? 
+! Undefined control sequence.
+l.559 ...ly buy one for yourself.\endPar{}\endNode
+                                                  {}
+? 
+! Undefined control sequence.
+l.560 				\endNode
+                  {}
+? 
+! Undefined control sequence.
+l.561 			\endDisplayGroup
+                         {}\endNode{}
+? 
+! Undefined control sequence.
+l.561 			\endDisplayGroup{}\endNode
+                                   {}
+? 
+! Undefined control sequence.
+l.562 			\Node
+              %
+? 
+! Undefined control sequence.
+l.564 {19}}\Par
+               %
+? 
+! Undefined control sequence.
+l.580 				\Node
+               %
+? 
+! Undefined control sequence.
+l.582 {20}}\endNode
+                   {}\endPar{}\endNode{}
+? 
+! Undefined control sequence.
+l.582 {20}}\endNode{}\endPar
+                            {}\endNode{}
+? 
+! Undefined control sequence.
+l.582 {20}}\endNode{}\endPar{}\endNode
+                                      {}
+? 
+! Undefined control sequence.
+l.583 		\endSeq
+               {}\endDisplayGroup{}\endNode{}
+? 
+! Undefined control sequence.
+l.583 		\endSeq{}\endDisplayGroup
+                                 {}\endNode{}
+? 
+! Undefined control sequence.
+l.583 		\endSeq{}\endDisplayGroup{}\endNode
+                                           {}
+? 
+! Undefined control sequence.
+l.584 	\endSeq
+              {}\Seq%
+? 
+! Undefined control sequence.
+l.584 	\endSeq{}\Seq
+                    %
+? 
+! Undefined control sequence.
+l.585 {}\Par
+            %
+? 
+! Undefined control sequence.
+l.602 {1}}Notes\endPar
+                      {}\Node%
+? 
+! Undefined control sequence.
+l.602 {1}}Notes\endPar{}\Node
+                             %
+? 
+! Undefined control sequence.
+l.605 {endnote-mode}}\Seq
+                         %
+? 
+! Undefined control sequence.
+l.609 					\Node
+                %
+? 
+! Undefined control sequence.
+l.612 {endnote-mode}}\Par
+                         %
+? 
+! Undefined control sequence.
+l.621 {1}}\LineField
+                    %
+? 
+! Undefined control sequence.
+l.624 {0}}1. \endLineField
+                          {}As the author, I can confidently say that Ive re...
+
+? 
+! Undefined control sequence.
+l.630 					world of material production!\endPar
+                                               {}\endNode{}
+? 
+! Undefined control sequence.
+l.630 ... of material production!\endPar{}\endNode
+                                                  {}
+? 
+! Undefined control sequence.
+l.631 				\endSeq
+                 {}\endNode{}\endSeq{}\endSpS{}\endNode{}
+? 
+! Undefined control sequence.
+l.631 				\endSeq{}\endNode
+                           {}\endSeq{}\endSpS{}\endNode{}
+? 
+! Undefined control sequence.
+l.631 				\endSeq{}\endNode{}\endSeq
+                                    {}\endSpS{}\endNode{}
+? 
+! Undefined control sequence.
+l.631 				\endSeq{}\endNode{}\endSeq{}\endSpS
+                                             {}\endNode{}
+? 
+! Undefined control sequence.
+l.631 ...Seq{}\endNode{}\endSeq{}\endSpS{}\endNode
+                                                  {}
+? 
+! Undefined control sequence.
+l.632 	\Node
+            %
+? 
+! Undefined control sequence.
+l.634 {23}}\SpS
+               %
+? 
+! Undefined control sequence.
+l.648 \SpSOtherBackLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.649 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.651 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.652 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.653 \SpSOtherBackLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.654 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.656 {italic}}\Node
+                    %
+? 
+! Undefined control sequence.
+l.659 {hf-mode}}\Seq
+                    %
+? 
+! Undefined control sequence.
+l.660 {}Chapter 2. Kniterate Design Studio\endSeq
+                                                 {}\endNode{}\endSeq{}}
+? 
+! Undefined control sequence.
+l.660 ... Kniterate Design Studio\endSeq{}\endNode
+                                                  {}\endSeq{}}
+? 
+! Undefined control sequence.
+l.660 ...e Design Studio\endSeq{}\endNode{}\endSeq
+                                                  {}}
+? 
+! Undefined control sequence.
+l.661 \SpSOtherBackCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.663 \SpSOtherBackCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.665 \SpSOtherBackRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.667 \SpSOtherBackRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.669 \SpSFirstBackLeftFooter
+                             %
+? 
+! Undefined control sequence.
+l.671 \SpSFirstBackLeftHeader
+                             %
+? 
+! Undefined control sequence.
+l.673 \SpSFirstBackCenterFooter
+                               %
+? 
+! Undefined control sequence.
+l.675 \SpSFirstBackCenterHeader
+                               %
+? 
+! Undefined control sequence.
+l.677 \SpSFirstBackRightFooter
+                              %
+? 
+! Undefined control sequence.
+l.678 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.680 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.681 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.682 \SpSFirstBackRightHeader
+                              %
+? 
+! Undefined control sequence.
+l.684 \SpSOtherFrontLeftFooter
+                              %
+? 
+! Undefined control sequence.
+l.686 \SpSOtherFrontLeftHeader
+                              %
+? 
+! Undefined control sequence.
+l.688 \SpSOtherFrontCenterFooter
+                                %
+? 
+! Undefined control sequence.
+l.690 \SpSOtherFrontCenterHeader
+                                %
+? 
+! Undefined control sequence.
+l.692 \SpSOtherFrontRightFooter
+                               %
+? 
+! Undefined control sequence.
+l.693 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.695 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.696 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.697 \SpSOtherFrontRightHeader
+                               %
+? 
+! Undefined control sequence.
+l.698 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.700 {italic}}\Node
+                    %
+? 
+! Undefined control sequence.
+l.703 {hf-mode}}\Seq
+                    %
+? 
+! Undefined control sequence.
+l.704 {}Chapter 2. Kniterate Design Studio\endSeq
+                                                 {}\endNode{}\endSeq{}}
+? 
+! Undefined control sequence.
+l.704 ... Kniterate Design Studio\endSeq{}\endNode
+                                                  {}\endSeq{}}
+? 
+! Undefined control sequence.
+l.704 ...e Design Studio\endSeq{}\endNode{}\endSeq
+                                                  {}}
+? 
+! Undefined control sequence.
+l.705 \SpSFirstFrontLeftFooter
+                              %
+? 
+! Undefined control sequence.
+l.707 \SpSFirstFrontLeftHeader
+                              %
+? 
+! Undefined control sequence.
+l.709 \SpSFirstFrontCenterFooter
+                                %
+? 
+! Undefined control sequence.
+l.711 \SpSFirstFrontCenterHeader
+                                %
+? 
+! Undefined control sequence.
+l.713 \SpSFirstFrontRightFooter
+                               %
+? 
+! Undefined control sequence.
+l.714 {\Seq
+           %
+? 
+! Undefined control sequence.
+l.716 {italic}}\insertPageNumber
+                                %
+? 
+! Undefined control sequence.
+l.717 {}\endSeq
+               {}}
+? 
+! Undefined control sequence.
+l.718 \SpSFirstFrontRightHeader
+                               %
+? 
+! Undefined control sequence.
+l.719 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.720 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.721 {}\HeadPar
+                %
+? 
+! Undefined control sequence.
+l.737 {1}}Chapter 2. \Seq
+                         %
+? 
+! Undefined control sequence.
+l.738 {}\Node
+             %
+? 
+! Undefined control sequence.
+l.741 ...tle-mode}}Kniterate Design Studio\endNode
+                                                  {}\endSeq{}\def\HeadingText{%
+
+? 
+! Undefined control sequence.
+l.741 ...}Kniterate Design Studio\endNode{}\endSeq
+                                                  {}\def\HeadingText{%
+? 
+! Undefined control sequence.
+l.743 \endHeadPar
+                 {}\Par%
+? 
+! Undefined control sequence.
+l.743 \endHeadPar{}\Par
+                       %
+? 
+! Undefined control sequence.
+l.763 {1}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.764 {}\endSeq
+               {}\endPar{}\endSeq{}		\Node%
+? 
+! Undefined control sequence.
+l.764 {}\endSeq{}\endPar
+                        {}\endSeq{}		\Node%
+? 
+! Undefined control sequence.
+l.764 {}\endSeq{}\endPar{}\endSeq
+                                 {}		\Node%
+? 
+! Undefined control sequence.
+l.764 {}\endSeq{}\endPar{}\endSeq{}		\Node
+                                          %
+? 
+! Undefined control sequence.
+l.766 {24}}\endNode
+                   {}
+? 
+! Undefined control sequence.
+l.767 		\Node
+             %
+? 
+! Undefined control sequence.
+l.769 {25}}\DisplayGroup
+                        %
+? 
+! Undefined control sequence.
+l.780 {1}}\Seq
+              %
+? 
+! Undefined control sequence.
+l.781 {}\Seq
+            %
+? 
+! Undefined control sequence.
+l.782 {}\HeadPar
+                %
+? 
+! Undefined control sequence.
+l.803 {1}}\Node
+               %
+? 
+! Undefined control sequence.
+l.806 ...ng Started with the Design Studio\endNode
+                                                  {}\def\HeadingText{%
+? 
+! Undefined control sequence.
+l.808 \endHeadPar
+                 {}\endSeq{}			\Node%
+? 
+! Undefined control sequence.
+l.808 \endHeadPar{}\endSeq
+                          {}			\Node%
+? 
+! Undefined control sequence.
+l.808 \endHeadPar{}\endSeq{}			\Node
+                                    %
+? 
+! Undefined control sequence.
+l.810 {26}}\endNode
+                   {}
+? 
+! Undefined control sequence.
+l.811 			\Node
+              %
+? 
+! Undefined control sequence.
+l.813 {27}}\Par
+               %
+? 
+! Undefined control sequence.
+l.836 			friendly.\endPar
+                         {}\endNode{}
+? 
+! Undefined control sequence.
+l.836 			friendly.\endPar{}\endNode
+                                   {}
+? 
+! Undefined control sequence.
+l.837 			\Node
+              %
+? 
+! Undefined control sequence.
+l.839 {28}}\Par
+               %
+? 
+! Undefined control sequence.
+l.859 			to create the final piece.\endPar
+                                          {}\endNode{}
+? 
+! Undefined control sequence.
+l.859 ... create the final piece.\endPar{}\endNode
+                                                  {}
+? 
+! Undefined control sequence.
+l.860 			\Node
+              %
+? 
+! Undefined control sequence.
+l.862 {29}}\Par
+               %
+? 
+! Undefined control sequence.
+l.881 			should be applied to each needle.\endPar
+                                                 {}\endNode{}
+? 
+! Undefined control sequence.
+l.881 ... applied to each needle.\endPar{}\endNode
+                                                  {}
+? 
+! Undefined control sequence.
+l.882 		\endSeq
+               {}\endDisplayGroup{}\endNode{}
+? 
+! Undefined control sequence.
+l.882 		\endSeq{}\endDisplayGroup
+                                 {}\endNode{}
+? 
+! Undefined control sequence.
+l.882 		\endSeq{}\endDisplayGroup{}\endNode
+                                           {}
+? 
+! Undefined control sequence.
+l.883 	\endSeq
+              {}\endSpS{}\endNode{}\endSeq{}\endNode{}\endNode{}\endSeq{}\en...
+
+? 
+! Undefined control sequence.
+l.883 	\endSeq{}\endSpS
+                       {}\endNode{}\endSeq{}\endNode{}\endNode{}\endSeq{}\en...
+
+? 
+! Undefined control sequence.
+l.883 	\endSeq{}\endSpS{}\endNode
+                                 {}\endSeq{}\endNode{}\endNode{}\endSeq{}\en...
+
+? 
+! Undefined control sequence.
+l.883 	\endSeq{}\endSpS{}\endNode{}\endSeq
+                                          {}\endNode{}\endNode{}\endSeq{}\en...
+
+? 
+! Undefined control sequence.
+l.883 ...Seq{}\endSpS{}\endNode{}\endSeq{}\endNode
+                                                  {}\endNode{}\endSeq{}\endF...
+
+? 
+! Undefined control sequence.
+l.883 ...pS{}\endNode{}\endSeq{}\endNode{}\endNode
+                                                  {}\endSeq{}\endFOT{}
+? 
+! Undefined control sequence.
+l.883 ...ode{}\endSeq{}\endNode{}\endNode{}\endSeq
+                                                  {}\endFOT{}
+? 
+! Undefined control sequence.
+l.883 ...Seq{}\endNode{}\endNode{}\endSeq{}\endFOT
+                                                  {}
+? 
+)
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+[1{/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}]</usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on KniterateGuide.pdf (1 page, 25102 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
